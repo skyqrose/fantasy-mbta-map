@@ -17,11 +17,11 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="fantasy_map2.svg"
+   sodipodi:docname="fantasy-mbta-map.svg"
    enable-background="new"
-   inkscape:export-filename="/home/sky/docs/urbanism/fantasy_map2.svg.png"
-   inkscape:export-xdpi="17.64625"
-   inkscape:export-ydpi="17.64625">
+   inkscape:export-filename="/home/sky/docs/urbanism/fantasy_map/fantasy-mbta-map.png"
+   inkscape:export-xdpi="46.777164"
+   inkscape:export-ydpi="46.777164">
   <defs
      id="defs2">
     <linearGradient
@@ -529,9 +529,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8041667"
-     inkscape:cx="1493.2945"
-     inkscape:cy="721.67853"
+     inkscape:zoom="0.45104168"
+     inkscape:cx="966.8125"
+     inkscape:cy="816.30563"
      inkscape:document-units="mm"
      inkscape:current-layer="layer21"
      showgrid="true"
