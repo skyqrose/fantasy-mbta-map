@@ -44,7 +44,7 @@
     <linearGradient
        id="White"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,481.5057,368.73276)">
+       gradientTransform="matrix(0,0,0,0,486.5057,383.73276)">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -252,7 +252,7 @@
     <linearGradient
        id="Blue_Line"
        osb:paint="solid"
-       gradientTransform="matrix(-1.6812196e-6,0,0,1.6812196e-6,586.27589,-110.66229)">
+       gradientTransform="matrix(-1.6812196e-6,0,0,1.6812196e-6,591.27589,-95.66229)">
       <stop
          style="stop-color:#003da5;stop-opacity:1;"
          offset="0"
@@ -531,12 +531,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="694.04643"
-     inkscape:cy="1239.8479"
+     inkscape:zoom="0.31893462"
+     inkscape:cx="516.45519"
+     inkscape:cy="750.41081"
      inkscape:document-units="mm"
      inkscape:current-layer="layer12"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="true"
@@ -1407,7 +1407,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Guides"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -4666,13 +4666,13 @@
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Blue_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path5765-4"
          cx="260"
-         cy="338"
+         cy="348"
          r="1.5" />
       <circle
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Blue_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path5765-4-2"
-         cx="230"
-         cy="368"
+         cx="235"
+         cy="373"
          r="1.5" />
       <circle
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Blue_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
