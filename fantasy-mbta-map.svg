@@ -217,7 +217,7 @@
     <linearGradient
        id="Bus"
        osb:paint="solid"
-       gradientTransform="matrix(1.2581487e-6,-1.2581487e-6,1.2581487e-6,1.2581487e-6,-622.63687,-158.27037)">
+       gradientTransform="matrix(1.2581487e-6,-1.2581487e-6,1.2581487e-6,1.2581487e-6,-552.8558,-149.89188)">
       <stop
          style="stop-color:#ffce0c;stop-opacity:1;"
          offset="0"
@@ -542,12 +542,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94722846"
-     inkscape:cx="407.63271"
-     inkscape:cy="556.51626"
+     inkscape:zoom="1.8944569"
+     inkscape:cx="660.81161"
+     inkscape:cy="1163.3433"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer36"
-     showgrid="true"
+     inkscape:current-layer="layer33"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="true"
@@ -697,8 +697,51 @@
       <g
          inkscape:groupmode="layer"
          id="layer39"
-         inkscape:label="Route 71/73"
-         sodipodi:insensitive="true" />
+         inkscape:label="Route 71/73">
+        <path
+           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 215.75734,212.24266 h -40"
+           id="path9071"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 161.61521,222.24266 7.07106,-7.07107"
+           id="path9073"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 161.20019,201.82765 7.48609,7.48608"
+           id="path9075"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="circle12268-5-55-9"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="-222.24266"
+           sodipodi:cy="-175.75734"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m -212.24266,-175.75734 a 10,10 0 0 1 -2.92893,7.07107"
+           sodipodi:open="true"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <path
+           id="circle12268-5-0-6"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="18.727947"
+           sodipodi:cy="267.28638"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m 28.727947,267.28638 a 10,10 0 0 1 -2.928932,7.07106"
+           sodipodi:open="true"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+      </g>
       <g
          inkscape:groupmode="layer"
          id="layer33"
@@ -749,7 +792,7 @@
            sodipodi:nodetypes="cc" />
         <path
            style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 210,218 -50,50"
+           d="M 215.75734,212.24266 160,268"
            id="path5925"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -2186,7 +2229,8 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="Stops"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer11"
@@ -4008,7 +4052,8 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Station Names"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -7138,6 +7183,18 @@
          inkscape:connector-curvature="0"
          id="path18033-5-5-8-5-7"
          d="m 71.414219,369.4142 -0.35356,-0.35356 -0.35356,-0.35356 -0.35354,-0.35388 -0.35356,-0.35322 -0.35356,-0.35356 -0.35354,-0.35354 -0.35356,-0.35356 -0.35356,-0.35356"
+         style="display:inline;fill:none;stroke:#00ff07;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.78512394" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path18033-5-5-8-5-53-4"
+         d="m 220,208 -0.35356,0.35356 -0.35356,0.35356 -0.35388,0.35354 -0.35322,0.35356 -0.35356,0.35356 -0.35354,0.35354 -0.35356,0.35356 -0.35356,0.35356"
+         style="display:inline;fill:none;stroke:#00ff07;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.78512394" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path18033-5-5-8-5-53-4-3"
+         d="m 217.17156,210.82844 -0.35356,0.35356 -0.35356,0.35356 -0.35388,0.35354 -0.35322,0.35356 -0.35356,0.35356 -0.35354,0.35354 -0.35356,0.35356 -0.35356,0.35356"
          style="display:inline;fill:none;stroke:#00ff07;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.78512394" />
     </g>
     <g
