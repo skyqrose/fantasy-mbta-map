@@ -217,7 +217,7 @@
     <linearGradient
        id="Bus"
        osb:paint="solid"
-       gradientTransform="matrix(1.2581487e-6,-1.2581487e-6,1.2581487e-6,1.2581487e-6,-615.56579,-165.34146)">
+       gradientTransform="matrix(1.2581487e-6,-1.2581487e-6,1.2581487e-6,1.2581487e-6,-612.63686,-164.12823)">
       <stop
          style="stop-color:#ffce0c;stop-opacity:1;"
          offset="0"
@@ -542,12 +542,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3395833"
-     inkscape:cx="682.93448"
-     inkscape:cy="788.49643"
+     inkscape:zoom="0.94722846"
+     inkscape:cx="1169.296"
+     inkscape:cy="556.24618"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer15"
-     showgrid="true"
+     inkscape:current-layer="layer13"
+     showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="true"
@@ -710,10 +710,37 @@
            id="path8601"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-           d="m 160,327.99999 80,79.99999"
+           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 160,328 80,79.99998"
            id="path8603"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="circle12268-5-3-8"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="-312.64169"
+           sodipodi:cy="76.367531"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m -302.64169,76.367531 a 10,10 0 0 1 -2.92894,7.071068"
+           sodipodi:open="true"
+           transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
+        <path
+           id="circle12268-5-22-5"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="-167.07108"
+           sodipodi:cy="320.92892"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m -157.07108,320.92892 a 10,10 0 0 1 -2.92893,7.07107"
+           sodipodi:open="true"
+           transform="scale(-1,1)" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1994,20 +2021,21 @@
          y="318"
          style="stroke-width:0.26458332">Blandford St</tspan></text>
     <path
-       style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 160,268 v 59.99999"
+       style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 157.07106,275.07106 2e-5,45.85786"
        id="path5908"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="160"
-       y="328"
+       x="161.58009"
+       y="325.77798"
        id="text5912"><tspan
          sodipodi:role="line"
          id="tspan5910"
-         x="160"
-         y="328"
+         x="161.58009"
+         y="325.77798"
          style="stroke-width:0.26458332">Coolidge Corner</tspan></text>
     <path
        style="fill:none;stroke:url(#Green_Line);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2039,10 +2067,11 @@
        id="path5923"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 210,218 -50,50"
        id="path5925"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 30,327.99999 100,258 h 70"
