@@ -217,7 +217,7 @@
     <linearGradient
        id="Bus"
        osb:paint="solid"
-       gradientTransform="matrix(1.2581487e-6,-1.2581487e-6,1.2581487e-6,1.2581487e-6,-552.8558,-149.89188)">
+       gradientTransform="matrix(2.3303408e-8,-2.3303408e-8,2.3303408e-8,2.3303408e-8,125.29699,555.70074)">
       <stop
          style="stop-color:#ffce0c;stop-opacity:1;"
          offset="0"
@@ -542,15 +542,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8944569"
-     inkscape:cx="1115.3742"
-     inkscape:cy="391.27866"
+     inkscape:zoom="0.66979167"
+     inkscape:cx="994.7968"
+     inkscape:cy="466.13981"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer41"
-     showgrid="false"
+     inkscape:current-layer="layer17"
+     showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1366"
@@ -764,14 +764,12 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Lines"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer28"
        inkscape:label="Bus"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer35"
@@ -917,12 +915,13 @@
          style="display:inline">
         <path
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 269.99999,407.99998 H 240"
+           d="m 280.85787,408.00001 -36.71573,-3e-5"
            id="path8601"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 160,328 80,79.99998"
+           d="m 160,328 77.07107,77.07105"
            id="path8603"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -964,6 +963,51 @@
            id="path5925"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 287.92894,410.92894 310.3033,433.3033"
+           id="path9411"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="circle12268-5-5-2-8"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="-96.974136"
+           sodipodi:cy="-494.16714"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m -86.974136,-494.16714 a 10,10 0 0 1 -2.928933,7.07106"
+           sodipodi:open="true"
+           transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)" />
+        <path
+           id="circle12268-5-0-9-8"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="76.974136"
+           sodipodi:cy="525.80927"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m 86.974136,525.80927 a 10,10 0 0 1 -2.928932,7.07106"
+           sodipodi:open="true"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+        <path
+           id="circle12268-5-0-9-8-8"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="108.79392"
+           sodipodi:cy="454.06305"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m 118.79392,454.06305 a 10,10 0 0 1 -2.92893,7.07107"
+           sodipodi:open="true"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1119,8 +1163,7 @@
          inkscape:groupmode="layer"
          id="layer30"
          inkscape:label="Route 21"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <path
            style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 209.14214,452.99999 288.35741,453"
@@ -1163,57 +1206,6 @@
            sodipodi:start="0"
            sodipodi:end="0.78539816"
            d="m -113.49096,-531.28992 a 10,10 0 0 1 -2.92893,7.07107"
-           sodipodi:open="true"
-           transform="matrix(0.70710679,-0.70710679,-0.70710679,-0.70710679,0,0)" />
-      </g>
-      <g
-         inkscape:groupmode="layer"
-         id="layer37"
-         inkscape:label="Route 15"
-         style="display:inline"
-         sodipodi:insensitive="true">
-        <path
-           style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 281.64214,415.50001 11.71573,-2e-5"
-           id="path10673"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 319.99999,438 300.42893,418.42892"
-           id="path10675"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 269.99999,407.99998 4.57109,4.57109"
-           id="path10677"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           id="circle12268-5-0-3"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           sodipodi:type="arc"
-           sodipodi:cx="87.580734"
-           sodipodi:cy="485.88287"
-           sodipodi:rx="10"
-           sodipodi:ry="10"
-           sodipodi:start="0"
-           sodipodi:end="0.78539816"
-           d="m 97.580734,485.88287 a 10,10 0 0 1 -2.928932,7.07107"
-           sodipodi:open="true"
-           transform="matrix(-0.70710679,0.70710679,0.70710679,0.70710679,0,0)" />
-        <path
-           id="circle12268-5-5-09"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           sodipodi:type="arc"
-           sodipodi:cx="-93.438591"
-           sodipodi:cy="-508.30927"
-           sodipodi:rx="10"
-           sodipodi:ry="10"
-           sodipodi:start="0"
-           sodipodi:end="0.78539816"
-           d="m -83.438591,-508.30927 a 10,10 0 0 1 -2.928932,7.07107"
            sodipodi:open="true"
            transform="matrix(0.70710679,-0.70710679,-0.70710679,-0.70710679,0,0)" />
       </g>
@@ -4142,7 +4134,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Station Names"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -5828,7 +5820,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Guides"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer2"
