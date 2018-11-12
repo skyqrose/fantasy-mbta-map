@@ -226,7 +226,7 @@
     <linearGradient
        id="Silver_Line"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,15.578892,120.24554)">
+       gradientTransform="matrix(0,0,0,0,-39.899358,365.47136)">
       <stop
          style="stop-color:#665f5e;stop-opacity:1;"
          offset="0"
@@ -253,7 +253,7 @@
     <linearGradient
        id="Blue_Line"
        osb:paint="solid"
-       gradientTransform="matrix(-1.1769267e-7,0,0,1.1769267e-7,287.9255,505.76828)">
+       gradientTransform="matrix(-1.1769267e-7,0,0,1.1769267e-7,197.12545,854.84056)">
       <stop
          style="stop-color:#003da5;stop-opacity:1;"
          offset="0"
@@ -271,7 +271,7 @@
     <linearGradient
        id="Orange_Line"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,485.95148,173.78358)">
+       gradientTransform="matrix(0,0,0,0,459.67386,219.05747)">
       <stop
          style="stop-color:#ed8b00;stop-opacity:1;"
          offset="0"
@@ -289,7 +289,7 @@
     <linearGradient
        id="Red_Line"
        osb:paint="solid"
-       gradientTransform="matrix(1.3449766e-5,0,0,1.3449766e-5,239.09986,254.90717)">
+       gradientTransform="matrix(1.3449766e-5,0,0,1.3449766e-5,0.87681,1057.4901)">
       <stop
          style="stop-color:#da291c;stop-opacity:1;"
          offset="0"
@@ -542,12 +542,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66979167"
-     inkscape:cx="943.28617"
-     inkscape:cy="1063.5911"
+     inkscape:zoom="10.716667"
+     inkscape:cx="1236.4393"
+     inkscape:cy="770.85918"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer42"
-     showgrid="false"
+     inkscape:current-layer="g11024-6"
+     showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="true"
@@ -4038,12 +4038,14 @@
        inkscape:groupmode="layer"
        id="layer46"
        inkscape:label="Bus Stops"
-       style="display:none" />
+       style="display:inline"
+       sodipodi:insensitive="true" />
     <g
        inkscape:groupmode="layer"
        id="layer44"
        inkscape:label="Stop Names"
-       style="display:none">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -4604,7 +4606,8 @@
        inkscape:groupmode="layer"
        id="layer43"
        inkscape:label="Station Names 1"
-       style="display:none">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5602,7 +5605,8 @@
        inkscape:groupmode="layer"
        id="layer45"
        inkscape:label="Route End Text"
-       style="display:none">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5830,7 +5834,7 @@
            style="font-size:3.52777767px;stroke-width:0.26458332">Porter</tspan></text>
       <text
          xml:space="preserve"
-         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="385.02847"
          y="238.03104"
          id="text12143"><tspan
@@ -5844,24 +5848,312 @@
        inkscape:groupmode="layer"
        id="layer42"
        inkscape:label="Route End Labels"
-       style="display:none">
-      <circle
-         style="opacity:1;fill:url(#Silver_Line);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path9624"
-         cx="365"
-         cy="113"
-         r="5" />
+       style="display:inline">
+      <g
+         id="g10513"
+         transform="translate(16.986003,1.6294712)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8"
+           style="display:inline;opacity:1;fill:url(#Orange_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02"
+           y="113.15659"
+           x="347.33057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.15659"
+             x="347.33057"
+             id="tspan9632-1"
+             sodipodi:role="line">OL</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g10513-5"
+         transform="translate(-50.76034,-9.5793162)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-1"
+           style="display:inline;opacity:1;fill:url(#Orange_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-1"
+           y="113.15659"
+           x="347.33057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.15659"
+             x="347.33057"
+             id="tspan9632-1-0"
+             sodipodi:role="line">OL</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g10513-50"
+         transform="translate(-199.28911,360.16252)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-6"
+           style="display:inline;opacity:1;fill:url(#Orange_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-4"
+           y="113.15659"
+           x="347.33057"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.15659"
+             x="347.33057"
+             id="tspan9632-1-6"
+             sodipodi:role="line">OL</tspan></text>
+      </g>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Red_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62"
+         width="7"
+         height="4"
+         x="266.32666"
+         y="482.5368"
+         ry="2" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="363.33517"
-         y="113.88653"
-         id="text9634"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="267.39645"
+         y="485.82269"
+         id="text9634-02-8"><tspan
            sodipodi:role="line"
-           id="tspan9632"
-           x="363.33517"
-           y="113.88653"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">OL</tspan></text>
+           id="tspan9632-1-4"
+           x="267.39645"
+           y="485.82269"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">RL</tspan></text>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Red_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62-4"
+         width="7"
+         height="4"
+         x="391.18436"
+         y="480.02289"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="392.25415"
+         y="483.30878"
+         id="text9634-02-8-0"><tspan
+           sodipodi:role="line"
+           id="tspan9632-1-4-6"
+           x="392.25415"
+           y="483.30878"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">RL</tspan></text>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Red_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62-9"
+         width="7"
+         height="4"
+         x="143.14493"
+         y="169.69431"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="144.21472"
+         y="172.98018"
+         id="text9634-02-8-08"><tspan
+           sodipodi:role="line"
+           id="tspan9632-1-4-1"
+           x="144.21472"
+           y="172.98018"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">RL</tspan></text>
+      <g
+         id="g11024">
+        <rect
+           ry="2"
+           y="157.40405"
+           x="424.42386"
+           height="4"
+           width="7"
+           id="rect10121-8-62-1"
+           style="display:inline;opacity:1;fill:url(#Blue_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-8-03"
+           y="160.68993"
+           x="425.48325"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="160.68993"
+             x="425.48325"
+             id="tspan9632-1-4-4"
+             sodipodi:role="line">BL</tspan></text>
+      </g>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Blue_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62-1-9"
+         width="7"
+         height="4"
+         x="177.36208"
+         y="411.44894"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="178.42146"
+         y="414.7348"
+         id="text9634-02-8-03-1"><tspan
+           sodipodi:role="line"
+           id="tspan9632-1-4-4-9"
+           x="178.42146"
+           y="414.7348"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">BL</tspan></text>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Silver_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62-1-3"
+         width="7"
+         height="4"
+         x="350.34213"
+         y="342.16409"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="351.58618"
+         y="345.43054"
+         id="text9634-02-8-03-3"><tspan
+           sodipodi:role="line"
+           id="tspan9632-1-4-4-8"
+           x="351.58618"
+           y="345.43054"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">SL</tspan></text>
+      <rect
+         style="display:inline;opacity:1;fill:url(#Silver_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10121-8-62-1-3-6"
+         width="7"
+         height="4"
+         x="286.05209"
+         y="123.2224"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="287.29614"
+         y="126.48887"
+         id="text9634-02-8-03-3-6"><tspan
+           sodipodi:role="line"
+           id="tspan9632-1-4-4-8-4"
+           x="287.29614"
+           y="126.48887"
+           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">SL</tspan></text>
+      <g
+         id="g10787"
+         transform="translate(60.90805,2.06901)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-62-1-3-4-6"
+           style="display:inline;opacity:1;fill:url(#Indigo_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-8-03-3-62-9"
+           y="113.17623"
+           x="348.06024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0.22225px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;letter-spacing:0.22225px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.17623"
+             x="348.06024"
+             id="tspan9632-1-4-4-8-6-8"
+             sodipodi:role="line">IL</tspan></text>
+      </g>
+      <g
+         id="g10787-2"
+         style="display:inline"
+         transform="translate(-154.65147,371.47006)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-62-1-3-4-6-8"
+           style="display:inline;opacity:1;fill:url(#Indigo_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-8-03-3-62-9-2"
+           y="113.17623"
+           x="348.06024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0.22225px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;letter-spacing:0.22225px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.17623"
+             x="348.06024"
+             id="tspan9632-1-4-4-8-6-8-9"
+             sodipodi:role="line">IL</tspan></text>
+      </g>
+      <g
+         transform="translate(10.552036,112.86578)"
+         style="display:inline"
+         id="g11024-6">
+        <g
+           id="g11101">
+          <rect
+             style="display:inline;opacity:1;fill:url(#Commuter_Rail);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect10121-8-62-1-1"
+             width="7"
+             height="4"
+             x="424.42386"
+             y="157.40405"
+             ry="2" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="425.45065"
+             y="160.68993"
+             id="text9634-02-8-03-32"><tspan
+               sodipodi:role="line"
+               id="tspan9632-1-4-4-1"
+               x="425.45065"
+               y="160.68993"
+               style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">LA</tspan></text>
+        </g>
+        <g
+           transform="translate(-43.896967,-31.84876)"
+           style="display:inline"
+           id="g11101-9">
+          <rect
+             style="display:inline;opacity:1;fill:url(#Commuter_Rail);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect10121-8-62-1-1-9"
+             width="7"
+             height="4"
+             x="424.42386"
+             y="157.40405"
+             ry="2" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="425.45065"
+             y="160.68993"
+             id="text9634-02-8-03-32-1"><tspan
+               sodipodi:role="line"
+               id="tspan9632-1-4-4-1-4"
+               x="425.45065"
+               y="160.68993"
+               style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">LA</tspan></text>
+        </g>
+      </g>
     </g>
   </g>
   <g
