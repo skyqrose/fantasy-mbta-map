@@ -534,22 +534,18 @@
        x2="386.5"
        y2="298"
        gradientTransform="translate(10)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter11740">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend11742" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#Commuter_Rail"
        id="linearGradient11787"
        gradientTransform="matrix(-0.93885241,-0.93885241,-0.93885241,0.93885241,511.46793,-29.138458)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Commuter_Rail"
+       id="linearGradient12013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.93885241,-0.93885241,-0.93885241,0.93885241,511.46793,-29.138458)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -558,11 +554,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9337783"
-     inkscape:cx="330.36166"
-     inkscape:cy="691.3226"
+     inkscape:zoom="7.4702264"
+     inkscape:cx="581.42503"
+     inkscape:cy="919.87375"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer44"
+     inkscape:current-layer="svg8"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
@@ -783,6 +779,306 @@
      id="layer16"
      inkscape:label="Lines"
      style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer26"
+       inkscape:label="Commuter Rail"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;stroke:url(#linearGradient16085);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 306,68.36158 10e-4,110.15902"
+         id="path16073"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#linearGradient16083-9-4-1);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 194.78355,109.24794 309.95407,224.41649"
+         id="path16075-6-7-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 306.9999,184.7623 307,214.87056"
+         id="path9514"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 310.30763,224.06293 340.5714,254.3267"
+         id="path6359"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 192.121,440.121 85.19316,-85.19256"
+         id="path5591"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 333.50003,351.5 H 284.38522"
+         id="path5593"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5745"
+         d="m 284.38522,351 -49.76341,10e-6"
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 411.414,485.879 345.1967,419.66115"
+         id="path5591-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 190,446.38416 v 41.61582"
+         id="path10880"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 194.5,478 H 150.90959"
+         id="path10882"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 343.50003,341.5 3.1e-4,-80.10223"
+         id="path6175"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path9331-7-9-7"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m 306.50045,181.64145 a 10,10 0 0 1 0.49945,3.12085 m -0.49945,-3.12085 A 10,10 0 0 1 306.001,178.5206"
+         inkscape:connector-curvature="0" />
+      <path
+         id="circle12268-6-6-6"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="341.5"
+         sodipodi:cy="333.50003"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         d="m 351.5,333.50003 a 10,10 0 0 1 -10,10"
+         sodipodi:open="true"
+         transform="matrix(0,1,1,0,0,0)" />
+      <path
+         id="circle12268-5-55-5"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="-361.99951"
+         sodipodi:cy="-284.38522"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m -351.99951,-284.38522 a 10,10 0 0 1 -2.92893,7.07106"
+         sodipodi:open="true"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <path
+         transform="matrix(-0.70710679,-0.70710679,-0.70710679,0.70710679,0,0)"
+         sodipodi:open="true"
+         d="m -447.06262,174.21991 a 10,10 0 0 1 -2.92893,7.07107"
+         sodipodi:end="0.78539816"
+         sodipodi:start="0"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="174.21991"
+         sodipodi:cx="-457.06262"
+         sodipodi:type="arc"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path5568-3" />
+      <path
+         id="circle12268-5-3-9"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Indigo_Line);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="-371.23105"
+         sodipodi:cy="-204.35387"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m -361.23105,-204.35387 a 10,10 0 0 1 -2.92893,7.07107"
+         sodipodi:open="true"
+         transform="matrix(-0.70710679,-0.70710679,-0.70710679,0.70710679,0,0)" />
+      <path
+         transform="rotate(-45)"
+         sodipodi:open="true"
+         d="m 199.50496,356.38217 a 10,10 0 0 1 -2.92893,7.07107"
+         sodipodi:end="0.78539816"
+         sodipodi:start="0"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="356.38217"
+         sodipodi:cx="189.50496"
+         sodipodi:type="arc"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Indigo_Line);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path5918" />
+      <path
+         id="path6372-4"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="-319.5"
+         sodipodi:cy="214.87056"
+         sodipodi:rx="12.5"
+         sodipodi:ry="12.5"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m -307,214.87056 a 12.5,12.5 0 0 1 -3.66117,8.83883"
+         sodipodi:open="true"
+         transform="scale(-1,1)" />
+      <path
+         transform="scale(1,-1)"
+         sodipodi:open="true"
+         d="m 343.50034,-261.39777 a 10,10 0 0 1 -2.92894,7.07107"
+         sodipodi:end="0.78539816"
+         sodipodi:start="0"
+         sodipodi:ry="10"
+         sodipodi:rx="10"
+         sodipodi:cy="-261.39777"
+         sodipodi:cx="333.50034"
+         sodipodi:type="arc"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path6398-7" />
+      <path
+         transform="scale(-1,1)"
+         sodipodi:open="true"
+         d="m -343,414.35785 a 7.5,7.5 0 0 1 -2.1967,5.3033"
+         sodipodi:end="0.78539816"
+         sodipodi:start="0"
+         sodipodi:ry="7.5"
+         sodipodi:rx="7.5"
+         sodipodi:cy="414.35785"
+         sodipodi:cx="-350.5"
+         sodipodi:type="arc"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path6809-9" />
+      <path
+         id="path9331-7-9-9"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="M 343.49945,353.55786 A 10,10 0 0 0 343,356.67871 m 0.49945,-3.12085 a 10,10 0 0 0 0.49945,-3.12085"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;opacity:1;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 344,341.50001 -10e-4,8.937"
+         id="path6884"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 343.00001,414.35784 343,356.67871"
+         id="path6886"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="circle12268-5-0-8"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="42.654427"
+         sodipodi:cy="605.05536"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m 52.654427,605.05536 a 10,10 0 0 1 -2.928933,7.07107"
+         sodipodi:open="true"
+         transform="matrix(-0.70710679,0.70710679,0.70710679,0.70710679,0,0)" />
+      <path
+         id="circle12268-5-25"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="394.69672"
+         sodipodi:cy="-483.30328"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m 404.69672,-483.30328 a 10,10 0 0 1 -2.92894,7.07106"
+         sodipodi:open="true"
+         transform="scale(1,-1)" />
+      <path
+         id="circle12268-97"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="157.99954"
+         sodipodi:cy="-268"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="1.5707963"
+         d="m 167.99954,-268 a 10,10 0 0 1 -10,10"
+         sodipodi:open="true"
+         transform="scale(1,-1)" />
+      <path
+         id="circle12268-5-22-53"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="-177.99954"
+         sodipodi:cy="284.37775"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m -167.99954,284.37775 a 10,10 0 0 1 -2.92893,7.07106"
+         sodipodi:open="true"
+         transform="scale(-1,1)" />
+      <path
+         id="circle12268-5-0-88"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="75.220741"
+         sodipodi:cy="407.02609"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m 85.220741,407.02609 a 10,10 0 0 1 -2.928932,7.07107"
+         sodipodi:open="true"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 94.148743,257.99341 157.99954,258"
+         id="path5927"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 167.99954,268 v 16.37775"
+         id="path8857"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:url(#linearGradient12013);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 170.92847,291.44881 56.62228,56.62226"
+         id="path8837"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 20,328 87.077675,260.92234"
+         id="path11668"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="circle12268-5-55-91"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         sodipodi:type="arc"
+         sodipodi:cx="-267.99341"
+         sodipodi:cy="-94.148743"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         sodipodi:start="0"
+         sodipodi:end="0.78539816"
+         d="m -257.99341,-94.148743 a 10,10 0 0 1 -2.92893,7.071068"
+         sodipodi:open="true"
+         transform="matrix(0,-1,-1,0,0,0)" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer28"
@@ -1318,306 +1614,6 @@
          d="m 309.5,214.87056 c 0,2.65217 1.05357,5.19571 2.92893,7.07107"
          id="path9208"
          inkscape:connector-curvature="0" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer26"
-       inkscape:label="Commuter Rail"
-       style="display:inline;filter:url(#filter11740)">
-      <path
-         style="display:inline;fill:none;stroke:url(#linearGradient16085);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 306,68.36158 10e-4,110.15902"
-         id="path16073"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#linearGradient16083-9-4-1);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 194.78355,109.24794 309.95407,224.41649"
-         id="path16075-6-7-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 306.9999,184.7623 307,214.87056"
-         id="path9514"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 310.30763,224.06293 340.5714,254.3267"
-         id="path6359"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 192.121,440.121 85.19316,-85.19256"
-         id="path5591"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 333.50003,351.5 H 284.38522"
-         id="path5593"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5745"
-         d="m 284.38522,351 -49.76341,10e-6"
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 411.414,485.879 345.1967,419.66115"
-         id="path5591-4"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 190,446.38416 v 41.61582"
-         id="path10880"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 194.5,478 H 150.90959"
-         id="path10882"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 343.50003,341.5 3.1e-4,-80.10223"
-         id="path6175"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         id="path9331-7-9-7"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m 306.50045,181.64145 a 10,10 0 0 1 0.49945,3.12085 m -0.49945,-3.12085 A 10,10 0 0 1 306.001,178.5206"
-         inkscape:connector-curvature="0" />
-      <path
-         id="circle12268-6-6-6"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="341.5"
-         sodipodi:cy="333.50003"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         d="m 351.5,333.50003 a 10,10 0 0 1 -10,10"
-         sodipodi:open="true"
-         transform="matrix(0,1,1,0,0,0)" />
-      <path
-         id="circle12268-5-55-5"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="-361.99951"
-         sodipodi:cy="-284.38522"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m -351.99951,-284.38522 a 10,10 0 0 1 -2.92893,7.07106"
-         sodipodi:open="true"
-         transform="matrix(0,-1,-1,0,0,0)" />
-      <path
-         transform="matrix(-0.70710679,-0.70710679,-0.70710679,0.70710679,0,0)"
-         sodipodi:open="true"
-         d="m -447.06262,174.21991 a 10,10 0 0 1 -2.92893,7.07107"
-         sodipodi:end="0.78539816"
-         sodipodi:start="0"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="174.21991"
-         sodipodi:cx="-457.06262"
-         sodipodi:type="arc"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path5568-3" />
-      <path
-         id="circle12268-5-3-9"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Indigo_Line);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="-371.23105"
-         sodipodi:cy="-204.35387"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m -361.23105,-204.35387 a 10,10 0 0 1 -2.92893,7.07107"
-         sodipodi:open="true"
-         transform="matrix(-0.70710679,-0.70710679,-0.70710679,0.70710679,0,0)" />
-      <path
-         transform="rotate(-45)"
-         sodipodi:open="true"
-         d="m 199.50496,356.38217 a 10,10 0 0 1 -2.92893,7.07107"
-         sodipodi:end="0.78539816"
-         sodipodi:start="0"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="356.38217"
-         sodipodi:cx="189.50496"
-         sodipodi:type="arc"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Indigo_Line);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path5918" />
-      <path
-         id="path6372-4"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="-319.5"
-         sodipodi:cy="214.87056"
-         sodipodi:rx="12.5"
-         sodipodi:ry="12.5"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m -307,214.87056 a 12.5,12.5 0 0 1 -3.66117,8.83883"
-         sodipodi:open="true"
-         transform="scale(-1,1)" />
-      <path
-         transform="scale(1,-1)"
-         sodipodi:open="true"
-         d="m 343.50034,-261.39777 a 10,10 0 0 1 -2.92894,7.07107"
-         sodipodi:end="0.78539816"
-         sodipodi:start="0"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="-261.39777"
-         sodipodi:cx="333.50034"
-         sodipodi:type="arc"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path6398-7" />
-      <path
-         transform="scale(-1,1)"
-         sodipodi:open="true"
-         d="m -343,414.35785 a 7.5,7.5 0 0 1 -2.1967,5.3033"
-         sodipodi:end="0.78539816"
-         sodipodi:start="0"
-         sodipodi:ry="7.5"
-         sodipodi:rx="7.5"
-         sodipodi:cy="414.35785"
-         sodipodi:cx="-350.5"
-         sodipodi:type="arc"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path6809-9" />
-      <path
-         id="path9331-7-9-9"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="M 343.49945,353.55786 A 10,10 0 0 0 343,356.67871 m 0.49945,-3.12085 a 10,10 0 0 0 0.49945,-3.12085"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 344,341.50001 -10e-4,8.937"
-         id="path6884"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 343.00001,414.35784 343,356.67871"
-         id="path6886"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         id="circle12268-5-0-8"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="42.654427"
-         sodipodi:cy="605.05536"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m 52.654427,605.05536 a 10,10 0 0 1 -2.928933,7.07107"
-         sodipodi:open="true"
-         transform="matrix(-0.70710679,0.70710679,0.70710679,0.70710679,0,0)" />
-      <path
-         id="circle12268-5-25"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="394.69672"
-         sodipodi:cy="-483.30328"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m 404.69672,-483.30328 a 10,10 0 0 1 -2.92894,7.07106"
-         sodipodi:open="true"
-         transform="scale(1,-1)" />
-      <path
-         id="circle12268-97"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="157.99954"
-         sodipodi:cy="-268"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="1.5707963"
-         d="m 167.99954,-268 a 10,10 0 0 1 -10,10"
-         sodipodi:open="true"
-         transform="scale(1,-1)" />
-      <path
-         id="circle12268-5-22-53"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="-177.99954"
-         sodipodi:cy="284.37775"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m -167.99954,284.37775 a 10,10 0 0 1 -2.92893,7.07106"
-         sodipodi:open="true"
-         transform="scale(-1,1)" />
-      <path
-         id="circle12268-5-0-88"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="75.220741"
-         sodipodi:cy="407.02609"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m 85.220741,407.02609 a 10,10 0 0 1 -2.928932,7.07107"
-         sodipodi:open="true"
-         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 94.148743,257.99341 157.99954,258"
-         id="path5927"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 167.99954,268 0,16.37775"
-         id="path8857"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;stroke:url(#linearGradient11787);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 170.92847,291.44881 56.62228,56.62226"
-         id="path8837"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 20,328 87.077675,260.92234"
-         id="path11668"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         id="circle12268-5-55-91"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         sodipodi:type="arc"
-         sodipodi:cx="-267.99341"
-         sodipodi:cy="-94.148743"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         sodipodi:start="0"
-         sodipodi:end="0.78539816"
-         d="m -257.99341,-94.148743 a 10,10 0 0 1 -2.92893,7.071068"
-         sodipodi:open="true"
-         transform="matrix(0,-1,-1,0,0,0)" />
     </g>
     <g
        inkscape:groupmode="layer"
