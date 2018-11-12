@@ -554,11 +554,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.4702264"
-     inkscape:cx="581.42503"
-     inkscape:cy="919.87375"
+     inkscape:zoom="1.3205619"
+     inkscape:cx="1108.8109"
+     inkscape:cy="720.22601"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer43"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="false"
@@ -4459,13 +4459,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="161.58009"
-         y="325.77798"
-         id="text5912"><tspan
+         x="-116.05813"
+         y="345.33221"
+         id="text5912"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan5910"
-           x="161.58009"
-           y="325.77798"
+           x="-116.05813"
+           y="345.33221"
            style="font-size:2.82222223px;stroke-width:0.26458332">Coolidge Corner</tspan></text>
       <text
          xml:space="preserve"
@@ -4654,6 +4655,90 @@
            x="165.01375"
            y="268.31076"
            style="font-size:2.82222223px;stroke-width:0.26458332">Packard's Corner</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-145.25079"
+         y="317.02838"
+         id="text5912-3"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-8"
+           x="-145.25079"
+           y="317.02838"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Dean Road</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-137.95461"
+         y="324.60791"
+         id="text5912-8"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-4"
+           x="-137.95461"
+           y="324.60791"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Washington Square</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-130.37508"
+         y="331.47906"
+         id="text5912-0"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-0"
+           x="-130.37508"
+           y="331.47906"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Brandon Hall</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-123.64558"
+         y="338.77527"
+         id="text5912-86"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-82"
+           x="-123.64558"
+           y="338.77527"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Summit Ave</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-109.05322"
+         y="352.65924"
+         id="text5912-38"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-5"
+           x="-109.05322"
+           y="352.65924"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Saint Paul St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-102.46539"
+         y="359.67212"
+         id="text5912-05"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-9"
+           x="-102.46539"
+           y="359.67212"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Kent St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-95.877571"
+         y="366.40161"
+         id="text5912-2"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5910-6"
+           x="-95.877571"
+           y="366.40161"
+           style="font-size:2.82222223px;stroke-width:0.26458332">Saint Marys St</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -5364,46 +5449,50 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="382.21271"
-         y="323.96017"
-         id="text12447"><tspan
+         x="40.878613"
+         y="501.82153"
+         id="text12447"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan12445"
-           x="382.21271"
-           y="323.96017"
-           style="font-size:3.52777767px;stroke-width:0.26458332">BCEC</tspan></text>
+           x="40.878613"
+           y="501.82153"
+           style="font-size:3.52777767px;stroke-width:0.26458332">World Trade Center</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="393.38416"
-         y="325.7684"
-         id="text12451"><tspan
+         x="47.12291"
+         y="509.02048"
+         id="text12451"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan12449"
-           x="393.38416"
-           y="325.7684"
+           x="47.12291"
+           y="509.02048"
            style="font-size:3.52777767px;stroke-width:0.26458332">Green Line Way</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="401.19678"
-         y="330.86917"
-         id="text12455"><tspan
+         x="49.835285"
+         y="517.80475"
+         id="text12455"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan12453"
-           x="401.19678"
-           y="330.86917"
+           x="49.835285"
+           y="517.80475"
            style="font-size:3.52777767px;stroke-width:0.26458332">Marine Park</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="403.7243"
-         y="339.21094"
-         id="text12459"><tspan
+         x="57.321384"
+         y="526.85492"
+         id="text12459"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
            id="tspan12457"
-           x="403.7243"
-           y="339.21094"
+           x="57.321384"
+           y="526.85492"
            style="font-size:3.52777767px;stroke-width:0.26458332">Drydock</tspan></text>
       <text
          xml:space="preserve"
