@@ -45,7 +45,7 @@
     <linearGradient
        id="White"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,1030.2016,2127.7479)">
+       gradientTransform="matrix(0,0,0,0,614.78618,580.95813)">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -226,7 +226,7 @@
     <linearGradient
        id="Silver_Line"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,233.3936,610.83406)">
+       gradientTransform="matrix(0,0,0,0,230.88006,582.19291)">
       <stop
          style="stop-color:#665f5e;stop-opacity:1;"
          offset="0"
@@ -244,7 +244,7 @@
     <linearGradient
        id="Mass_Ave_Light_Rail"
        osb:paint="solid"
-       gradientTransform="matrix(1.6812222e-6,0,0,1.6812222e-6,403.69388,534.83117)">
+       gradientTransform="matrix(0,0,0,0,613.97384,578.89272)">
       <stop
          style="stop-color:#00d1d4;stop-opacity:1;"
          offset="0"
@@ -253,7 +253,7 @@
     <linearGradient
        id="Blue_Line"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,114.08051,442.69311)">
+       gradientTransform="matrix(0,0,0,0,116.57388,437.16794)">
       <stop
          style="stop-color:#003da5;stop-opacity:1;"
          offset="0"
@@ -289,7 +289,7 @@
     <linearGradient
        id="Red_Line"
        osb:paint="solid"
-       gradientTransform="matrix(1.3449766e-5,0,0,1.3449766e-5,0.87681,1057.4901)">
+       gradientTransform="matrix(1.3449766e-5,0,0,1.3449766e-5,1.3398308,1056.4648)">
       <stop
          style="stop-color:#da291c;stop-opacity:1;"
          offset="0"
@@ -554,15 +554,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="910.82697"
-     inkscape:cy="423.68377"
+     inkscape:zoom="4"
+     inkscape:cx="1189.4861"
+     inkscape:cy="402.02993"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer43"
      showgrid="true"
-     inkscape:snap-bbox="false"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1366"
@@ -779,7 +779,8 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Lines"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer26"
@@ -1446,7 +1447,7 @@
          style="display:inline">
         <path
            style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 307.49957,467.99999 0,-9.99999"
+           d="M 307.49957,467.99999 V 458"
            id="path13195"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -1516,7 +1517,7 @@
            transform="rotate(-90)" />
         <path
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 270.5,438.00001 -16.35737,0"
+           d="M 270.5,438.00001 H 254.14263"
            id="path7049"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -1848,7 +1849,7 @@
          id="circle12268-5-2-2-5"
          transform="scale(-1,1)"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m -240,353.85785 c 0,2.65217 -1.05357,5.19571 -2.92893,7.07107 M -240,237.09192 c 0,-2.65217 1.05357,-5.19571 2.92893,-7.07107 M -157.525,150.475 -237.07107,230.02085 M -240,237.09192 v 116.76593 m -2.92893,7.07107 -44.14214,44.14215"
+         d="m -240,353.85785 c 0,2.65217 -1.05357,5.19571 -2.92893,7.07107 M -240,237.09192 c 0,-2.65217 1.05357,-5.19571 2.92893,-7.07107 m 112.88099,-112.881 -112.88099,112.881 M -240,237.09192 v 116.76593 m -2.92893,7.07107 -44.14214,44.14215"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccc" />
       <path
@@ -2402,7 +2403,8 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="Stops"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer11"
@@ -4296,6 +4298,36 @@
          cx="270"
          id="circle9433-3"
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Pink_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+      <circle
+         r="1"
+         cy="143.80788"
+         cx="150.85811"
+         id="circle9643-9"
+         style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+      <circle
+         style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle9653-4"
+         cx="144.1911"
+         cy="137.14087"
+         r="1" />
+      <circle
+         r="1"
+         cy="130.47386"
+         cx="137.52409"
+         id="circle9659-8"
+         style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+      <circle
+         style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle9665-1"
+         cx="130.85709"
+         cy="123.80685"
+         r="1" />
+      <circle
+         r="1"
+         cy="117.13985"
+         cx="124.19008"
+         id="circle9671-2"
+         style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Mass_Ave_Light_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
     <g
        transform="translate(60)"
@@ -5190,6 +5222,239 @@
            x="283.6264"
            y="397.80478"
            style="stroke-width:0.26458332">Boston Medical Center</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="125.28021"
+         y="139.30312"
+         id="text7932"><tspan
+           sodipodi:role="line"
+           id="tspan7930"
+           x="125.28021"
+           y="139.30312"
+           style="stroke-width:0.26458332">Highland Ave</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="134.80521"
+         y="152.39999"
+         id="text7936"><tspan
+           sodipodi:role="line"
+           id="tspan7934"
+           x="134.80521"
+           y="152.39999"
+           style="stroke-width:0.26458332">Arlington Center</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="150.94479"
+         y="159.14688"
+         id="text7940"><tspan
+           sodipodi:role="line"
+           id="tspan7938"
+           x="150.94479"
+           y="159.14688"
+           style="stroke-width:0.26458332">Foster St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="137.18646"
+         y="145.78542"
+         id="text7944"><tspan
+           sodipodi:role="line"
+           id="tspan7942"
+           x="137.18646"
+           y="145.78542"
+           style="stroke-width:0.26458332">Jason St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="116.94582"
+         y="125.94167"
+         id="text7948"><tspan
+           sodipodi:role="line"
+           id="tspan7946"
+           x="116.94582"
+           y="125.94167"
+           style="stroke-width:0.26458332">Forest St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="123.56042"
+         y="132.42397"
+         id="text7952"><tspan
+           sodipodi:role="line"
+           id="tspan7950"
+           x="123.56042"
+           y="132.42397"
+           style="stroke-width:0.26458332">Brattle St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="158.48541"
+         y="173.30209"
+         id="text7956"><tspan
+           sodipodi:role="line"
+           id="tspan7954"
+           x="158.48541"
+           y="173.30209"
+           style="stroke-width:0.26458332">Alewife Brook</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="160.60208"
+         y="179.51979"
+         id="text7960"><tspan
+           sodipodi:role="line"
+           id="tspan7958"
+           x="160.60208"
+           y="179.51979"
+           style="stroke-width:0.26458332">Community Path</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="174.22812"
+         y="186.26666"
+         id="text7964"><tspan
+           sodipodi:role="line"
+           id="tspan7962"
+           x="174.22812"
+           y="186.26666"
+           style="stroke-width:0.26458332">Rindge Ave</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="157.16249"
+         y="164.70312"
+         id="text7968"><tspan
+           sodipodi:role="line"
+           id="tspan7966"
+           x="157.16249"
+           y="164.70312"
+           style="stroke-width:0.26458332">Lake St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="188.51562"
+         y="207.56563"
+         id="text7976"><tspan
+           sodipodi:role="line"
+           id="tspan7974"
+           x="188.51562"
+           y="207.56563"
+           style="stroke-width:0.26458332">Lesley University</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="186.13437"
+         y="199.09895"
+         id="text7980"><tspan
+           sodipodi:role="line"
+           id="tspan7978"
+           x="186.13437"
+           y="199.09895"
+           style="stroke-width:0.26458332">Linnaean St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="209.94687"
+         y="218.9427"
+         id="text7984"><tspan
+           sodipodi:role="line"
+           id="tspan7982"
+           x="209.94687"
+           y="218.9427"
+           style="stroke-width:0.26458332">Putnam</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="213.51875"
+         y="225.82187"
+         id="text7988"><tspan
+           sodipodi:role="line"
+           id="tspan7986"
+           x="213.51875"
+           y="225.82187"
+           style="stroke-width:0.26458332">Hancock St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="215.76772"
+         y="239.18333"
+         id="text7992"><tspan
+           sodipodi:role="line"
+           id="tspan7990"
+           x="215.76772"
+           y="239.18333"
+           style="stroke-width:0.26458332">Lafayette Square</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="224.49895"
+         y="249.2375"
+         id="text7996"><tspan
+           sodipodi:role="line"
+           id="tspan7994"
+           x="224.49895"
+           y="249.2375"
+           style="stroke-width:0.26458332">Albany St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="223.00969"
+         y="347.66501"
+         id="text8000"><tspan
+           sodipodi:role="line"
+           id="tspan7998"
+           x="223.00969"
+           y="347.66501"
+           style="stroke-width:0.26458332">Clearway St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="267.16263"
+         y="381.15387"
+         id="text8052"><tspan
+           sodipodi:role="line"
+           id="tspan8050"
+           x="267.16263"
+           y="381.15387"
+           style="stroke-width:0.26458332">Tremont St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="289.14554"
+         y="403.97867"
+         id="text8056"><tspan
+           sodipodi:role="line"
+           id="tspan8054"
+           x="289.14554"
+           y="403.97867"
+           style="stroke-width:0.26458332">Pompeii St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-65.122993"
+         y="509.56314"
+         id="text8060"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan8058"
+           x="-65.122993"
+           y="509.56314"
+           style="stroke-width:0.26458332">Favorite Pear</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-58.326366"
+         y="516.70184"
+         id="text8064"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan8062"
+           x="-58.326366"
+           y="516.70184"
+           style="stroke-width:0.26458332">Dorchester Ave</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -5374,13 +5639,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="271.46249"
-         y="272.12396"
+         x="269.21744"
+         y="274.55612"
          id="text12313"><tspan
            sodipodi:role="line"
            id="tspan12311"
-           x="271.46249"
-           y="272.12396"
+           x="269.21744"
+           y="274.55612"
            style="font-size:3.52777767px;stroke-width:0.26458332">Charles</tspan></text>
       <text
          xml:space="preserve"
@@ -5418,35 +5683,35 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="267.22916"
-         y="330.86145"
+         x="266.74539"
+         y="325.1275"
          id="text12359"><tspan
            sodipodi:role="line"
            id="tspan12357"
-           x="267.22916"
-           y="330.86145"
+           x="266.74539"
+           y="325.1275"
            style="font-size:3.52777767px;stroke-width:0.26458332">Copley</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="282.83957"
-         y="331.52292"
+         x="278.66882"
+         y="333.17236"
          id="text12363"><tspan
            sodipodi:role="line"
            id="tspan12361"
-           x="282.83957"
-           y="331.52292"
+           x="278.66882"
+           y="333.17236"
            style="font-size:3.52777767px;stroke-width:0.26458332">Arlington</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="241.43228"
-         y="331.9198"
+         x="241.96144"
+         y="325.30521"
          id="text12367"><tspan
            sodipodi:role="line"
            id="tspan12365"
-           x="241.43228"
-           y="331.9198"
+           x="241.96144"
+           y="325.30521"
            style="font-size:3.52777767px;stroke-width:0.26458332">Hynes</tspan></text>
       <text
          xml:space="preserve"
@@ -5571,13 +5836,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="250"
-         y="348"
+         x="241.9552"
+         y="347.71939"
          id="text8575"><tspan
            sodipodi:role="line"
            id="tspan8573"
-           x="250"
-           y="348"
+           x="241.9552"
+           y="347.71939"
            style="font-size:3.52777767px;stroke-width:0.26458332">Prudential</tspan></text>
       <text
          xml:space="preserve"
@@ -5708,23 +5973,23 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="286.01459"
-         y="480.74792"
+         x="285.55157"
+         y="475.78699"
          id="text12535"><tspan
            sodipodi:role="line"
            id="tspan12533"
-           x="286.01459"
-           y="480.74792"
+           x="285.55157"
+           y="475.78699"
            style="font-size:3.52777767px;stroke-width:0.26458332">Milton</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="314.32498"
+         x="312.60519"
          y="469.37082"
          id="text12539"><tspan
            sodipodi:role="line"
            id="tspan12537"
-           x="314.32498"
+           x="312.60519"
            y="469.37082"
            style="font-size:3.52777767px;stroke-width:0.26458332">Ashmont</tspan></text>
       <text
@@ -6179,17 +6444,17 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="221.12102"
-         y="340.52032"
+         x="221.30811"
+         y="339.49133"
          id="text5845"><tspan
            sodipodi:role="line"
-           x="221.12102"
-           y="340.52032"
+           x="221.30811"
+           y="339.49133"
            style="font-size:3.52777767px;stroke-width:0.26458332"
            id="tspan5851">Landsdowne</tspan><tspan
            sodipodi:role="line"
-           x="221.12102"
-           y="344.93005"
+           x="221.30811"
+           y="343.90106"
            style="font-size:3.52777767px;stroke-width:0.26458332"
            id="tspan5855" /></text>
       <text
@@ -6228,13 +6493,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="222.76062"
-         y="331.74673"
+         x="221.56999"
+         y="325.13214"
          id="text11258"><tspan
            sodipodi:role="line"
            id="tspan11256"
-           x="222.76062"
-           y="331.74673"
+           x="221.56999"
+           y="325.13214"
            style="stroke-width:0.26458332">Kenmore</tspan></text>
       <text
          xml:space="preserve"
@@ -6320,25 +6585,25 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="290.5304"
-         y="421.27136"
+         x="292.31635"
+         y="423.12344"
          id="text12531-2-6-4"><tspan
            sodipodi:role="line"
            id="tspan12529-0-1-7"
-           x="290.5304"
-           y="421.27136"
+           x="292.31635"
+           y="423.12344"
            style="font-size:3.52777767px;stroke-width:0.26458332">Uphams Corner</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="301.55884"
-         y="410.76562"
+         x="299.33923"
+         y="413.58328"
          id="text6906"><tspan
            sodipodi:role="line"
            id="tspan6904"
-           x="301.55884"
-           y="410.76562"
-           style="stroke-width:0.26458332">Newmarket</tspan></text>
+           x="299.33923"
+           y="413.58328"
+           style="font-size:3.52777767px;stroke-width:0.26458332">Newmarket</tspan></text>
       <text
          xml:space="preserve"
          style="display:inline;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -6424,19 +6689,19 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Alewife</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-         x="347.66251"
-         y="316.30936"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="348.98541"
+         y="320.60883"
          id="text12345"><tspan
            sodipodi:role="line"
            id="tspan12343"
-           x="347.66251"
-           y="316.30936"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">South</tspan><tspan
+           x="348.98541"
+           y="320.60883"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">South</tspan><tspan
            sodipodi:role="line"
-           x="347.66251"
-           y="320.71909"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+           x="348.98541"
+           y="324.97845"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
            id="tspan12347">Station</tspan></text>
       <text
          xml:space="preserve"
@@ -6473,15 +6738,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Conley</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-         x="144.99167"
-         y="469.37082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="126.53458"
+         y="468.80719"
          id="text12515"><tspan
            sodipodi:role="line"
            id="tspan12513"
-           x="144.99167"
-           y="469.37082"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">West Roxbury</tspan></text>
+           x="126.53458"
+           y="468.80719"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">West Roxbury</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -6521,26 +6786,26 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Needham Junction</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-         x="264.05417"
-         y="482.07083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="274.50522"
+         y="484.41901"
          id="text12527"><tspan
            sodipodi:role="line"
            id="tspan12525"
-           x="264.05417"
-           y="482.07083"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Mattapan</tspan></text>
+           x="274.50522"
+           y="484.41901"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mattapan</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-         x="344.88437"
-         y="408.91354"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="352.7655"
+         y="409.73206"
          id="text12403"><tspan
            sodipodi:role="line"
            id="tspan12401"
-           x="344.88437"
-           y="408.91354"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">JFK/UMass</tspan></text>
+           x="352.7655"
+           y="409.73206"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">JFK/UMass</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -6554,15 +6819,15 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Cleveland Circle</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-         x="176.35109"
-         y="408.11346"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="164.04796"
+         y="408.51035"
          id="text8599"><tspan
            sodipodi:role="line"
            id="tspan8597"
-           x="176.35109"
-           y="408.11346"
-           style="font-size:3.49571013px;stroke-width:0.26458332;-inkscape-font-specification:'Helvetica, Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Riverway</tspan></text>
+           x="164.04796"
+           y="408.51035"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Riverway</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -6629,6 +6894,17 @@
            x="404.58279"
            y="388.99893"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571037px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">8th St</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571037px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="82.992111"
+         y="118.13618"
+         id="text12337-7"><tspan
+           sodipodi:role="line"
+           id="tspan12335-2"
+           x="82.992111"
+           y="118.13618"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571037px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Arlington Heights</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -6685,7 +6961,7 @@
       <g
          style="display:inline"
          id="g10513-50"
-         transform="translate(-199.28911,360.16252)">
+         transform="translate(-195.72503,356.10964)">
         <rect
            ry="2"
            y="109.89036"
@@ -6711,19 +6987,19 @@
          id="rect10121-8-62"
          width="7"
          height="4"
-         x="266.32666"
-         y="482.5368"
+         x="266.78967"
+         y="481.51154"
          ry="2" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="267.39645"
-         y="485.82269"
+         x="267.85947"
+         y="484.79742"
          id="text9634-02-8"><tspan
            sodipodi:role="line"
            id="tspan9632-1-4"
-           x="267.39645"
-           y="485.82269"
+           x="267.85947"
+           y="484.79742"
            style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">RL</tspan></text>
       <g
          id="g6332"
@@ -6799,39 +7075,43 @@
          id="rect10121-8-62-1-9"
          width="7"
          height="4"
-         x="177.36208"
-         y="411.44894"
+         x="179.85544"
+         y="405.92377"
          ry="2" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="178.42146"
-         y="414.7348"
+         x="180.91483"
+         y="409.20963"
          id="text9634-02-8-03-1"><tspan
            sodipodi:role="line"
            id="tspan9632-1-4-4-9"
-           x="178.42146"
-           y="414.7348"
+           x="180.91483"
+           y="409.20963"
            style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">BL</tspan></text>
-      <rect
-         style="display:inline;opacity:1;fill:url(#Silver_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect10121-8-62-1-3"
-         width="7"
-         height="4"
-         x="350.34213"
-         y="342.16409"
-         ry="2" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="351.58618"
-         y="345.43054"
-         id="text9634-02-8-03-3"><tspan
-           sodipodi:role="line"
-           id="tspan9632-1-4-4-8"
-           x="351.58618"
-           y="345.43054"
-           style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">SL</tspan></text>
+      <g
+         id="g7488"
+         transform="translate(0.62838542,0.03307292)">
+        <rect
+           ry="2"
+           y="313.52295"
+           x="347.82858"
+           height="4"
+           width="7"
+           id="rect10121-8-62-1-3"
+           style="display:inline;opacity:1;fill:url(#Silver_Line);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-8-03-3"
+           y="316.7894"
+           x="349.07263"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="316.7894"
+             x="349.07263"
+             id="tspan9632-1-4-4-8"
+             sodipodi:role="line">SL</tspan></text>
+      </g>
       <g
          id="g11146"
          transform="translate(8.0979782,-2.2220062)">
@@ -6976,7 +7256,7 @@
       <g
          style="display:inline"
          id="g10513-6-6"
-         transform="translate(-76.055799,379.35022)">
+         transform="translate(-87.333664,371.61116)">
         <rect
            ry="2"
            y="109.89036"
@@ -7170,7 +7450,7 @@
       <g
          style="display:inline"
          id="g6322-9"
-         transform="translate(285.42788,-1.5643455)">
+         transform="translate(292.93543,6.7038836)">
         <rect
            ry="2"
            y="306.80701"
@@ -7194,7 +7474,7 @@
       <g
          style="display:inline"
          id="g6327-7"
-         transform="translate(294.73451,-6.3652183)">
+         transform="translate(299.7616,1.9691567)">
         <rect
            ry="2"
            y="311.60788"
@@ -7238,6 +7518,54 @@
              x="62.658001"
              id="tspan9632-1-4-4-9-5-2-3"
              sodipodi:role="line">GC</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g10513-6-6-6"
+         transform="translate(-1.4806689,296.22768)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-2-6-4"
+           style="display:inline;opacity:1;fill:url(#Mass_Ave_Light_Rail);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-7-3-9"
+           y="113.14095"
+           x="349.00632"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.14095"
+             x="349.00632"
+             id="tspan9632-1-1-9-5"
+             sodipodi:role="line">1</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g10513-6-6-6-4"
+         transform="translate(-232.32271,5.2203221)">
+        <rect
+           ry="2"
+           y="109.89036"
+           x="346.293"
+           height="4"
+           width="7"
+           id="rect10121-8-2-6-4-8"
+           style="display:inline;opacity:1;fill:url(#Mass_Ave_Light_Rail);fill-opacity:1;stroke:none;stroke-width:0.50245327;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text9634-02-7-3-9-7"
+           y="113.14095"
+           x="349.00632"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;font-size:3.52777767px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+             y="113.14095"
+             x="349.00632"
+             id="tspan9632-1-1-9-5-1"
+             sodipodi:role="line">1</tspan></text>
       </g>
     </g>
   </g>
