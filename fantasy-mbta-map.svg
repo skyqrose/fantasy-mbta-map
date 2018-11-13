@@ -554,9 +554,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="1189.4861"
-     inkscape:cy="402.02993"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="1220.683"
+     inkscape:cy="332.68387"
      inkscape:document-units="mm"
      inkscape:current-layer="layer43"
      showgrid="true"
@@ -5188,17 +5188,17 @@
            id="tspan12553-9-7"
            x="278.35156"
            y="393.88867"
-           style="font-size:2.82222223px;stroke-width:0.26458332">??</tspan></text>
+           style="font-size:2.82222223px;stroke-width:0.26458332">South End</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="286.27704"
-         y="386.59128"
+         y="386.03"
          id="text7157"><tspan
            sodipodi:role="line"
            id="tspan7155"
            x="286.27704"
-           y="386.59128"
+           y="386.03"
            style="stroke-width:0.26458332">Brookline St</tspan></text>
       <text
          xml:space="preserve"
@@ -5214,13 +5214,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="283.6264"
-         y="397.80478"
+         x="283.15869"
+         y="398.45959"
          id="text7175"><tspan
            sodipodi:role="line"
            id="tspan7173"
-           x="283.6264"
-           y="397.80478"
+           x="283.15869"
+           y="398.45959"
            style="stroke-width:0.26458332">Boston Medical Center</tspan></text>
       <text
          xml:space="preserve"
@@ -5412,13 +5412,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="267.16263"
-         y="381.15387"
+         x="266.60135"
+         y="382.08932"
          id="text8052"><tspan
            sodipodi:role="line"
            id="tspan8050"
-           x="267.16263"
-           y="381.15387"
+           x="266.60135"
+           y="382.08932"
            style="stroke-width:0.26458332">Tremont St</tspan></text>
       <text
          xml:space="preserve"
@@ -5434,26 +5434,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-65.122993"
-         y="509.56314"
-         id="text8060"
-         transform="rotate(-45)"><tspan
+         x="307.31183"
+         y="405.88873"
+         id="text8060"><tspan
            sodipodi:role="line"
            id="tspan8058"
-           x="-65.122993"
-           y="509.56314"
+           x="307.31183"
+           y="405.88873"
            style="stroke-width:0.26458332">Favorite Pear</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-58.326366"
-         y="516.70184"
-         id="text8064"
-         transform="rotate(-45)"><tspan
+         x="318.5986"
+         y="412.18555"
+         id="text8064"><tspan
            sodipodi:role="line"
            id="tspan8062"
-           x="-58.326366"
-           y="516.70184"
+           x="318.5986"
+           y="412.18555"
            style="stroke-width:0.26458332">Dorchester Ave</tspan></text>
     </g>
     <text
@@ -5563,13 +5561,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="354.40936"
-         y="247.91458"
+         x="352.16431"
+         y="248.75648"
          id="text12223"><tspan
            sodipodi:role="line"
            id="tspan12221"
-           x="354.40936"
-           y="247.91458"
+           x="352.16431"
+           y="248.75648"
            style="font-size:3.52777767px;stroke-width:0.26458332">Maverick</tspan></text>
       <text
          xml:space="preserve"
@@ -5596,18 +5594,18 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="287.60208"
-         y="257.17499"
+         x="297.87769"
+         y="260.5426"
          id="text12307"><tspan
            sodipodi:role="line"
            id="tspan12305"
-           x="287.60208"
-           y="257.17499"
-           style="font-size:3.52777767px;stroke-width:0.26458332">Government</tspan><tspan
+           x="297.87769"
+           y="260.5426"
+           style="font-size:3.52777767px;text-align:end;text-anchor:end;stroke-width:0.26458332">Government</tspan><tspan
            sodipodi:role="line"
-           x="287.60208"
-           y="261.58472"
-           style="font-size:3.52777767px;stroke-width:0.26458332"
+           x="297.87769"
+           y="264.95233"
+           style="font-size:3.52777767px;text-align:end;text-anchor:end;stroke-width:0.26458332"
            id="tspan12309">Center</tspan></text>
       <text
          xml:space="preserve"
@@ -5628,13 +5626,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="287.07291"
-         y="290.38022"
+         x="289.13089"
+         y="290.9415"
          id="text12299"><tspan
            sodipodi:role="line"
            id="tspan12297"
-           x="287.07291"
-           y="290.38022"
+           x="289.13089"
+           y="290.9415"
            style="font-size:3.52777767px;stroke-width:0.26458332">Park</tspan></text>
       <text
          xml:space="preserve"
@@ -5716,46 +5714,46 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="302.94791"
-         y="341.44479"
+         x="301.91891"
+         y="336.95465"
          id="text12375"><tspan
            sodipodi:role="line"
            id="tspan12373"
-           x="302.94791"
-           y="341.44479"
+           x="301.91891"
+           y="336.95465"
            style="font-size:3.52777767px;stroke-width:0.26458332">Tufts</tspan><tspan
            sodipodi:role="line"
-           x="302.94791"
-           y="345.85452"
+           x="301.91891"
+           y="341.36438"
            style="font-size:3.52777767px;stroke-width:0.26458332"
            id="tspan12377">Medical</tspan><tspan
            sodipodi:role="line"
-           x="302.94791"
-           y="350.26425"
+           x="301.91891"
+           y="345.77411"
            style="font-size:3.52777767px;stroke-width:0.26458332"
            id="tspan12379">Center</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="284.95624"
-         y="343.95834"
+         x="277.09851"
+         y="344.33252"
          id="text12387"><tspan
            sodipodi:role="line"
            id="tspan12385"
-           x="284.95624"
-           y="343.95834"
+           x="277.09851"
+           y="344.33252"
            style="font-size:3.52777767px;stroke-width:0.26458332">Back Bay</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="261.14374"
-         y="374.12082"
+         x="259.08575"
+         y="375.43045"
          id="text12479"><tspan
            sodipodi:role="line"
            id="tspan12477"
-           x="261.14374"
-           y="374.12082"
-           style="font-size:3.52777767px;stroke-width:0.26458332">South End</tspan></text>
+           x="259.08575"
+           y="375.43045"
+           style="font-size:3.52777767px;stroke-width:0.26458332">Claremont</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5770,46 +5768,46 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="232.56874"
+         x="233.78482"
          y="401.90207"
          id="text12487"><tspan
            sodipodi:role="line"
            id="tspan12485"
-           x="232.56874"
+           x="233.78482"
            y="401.90207"
            style="font-size:3.52777767px;stroke-width:0.26458332">Roxbury Crossing</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="225.37547"
-         y="410.98438"
+         x="225.09483"
+         y="411.73273"
          id="text12491"><tspan
            sodipodi:role="line"
            id="tspan12489"
-           x="225.37547"
-           y="410.98438"
+           x="225.09483"
+           y="411.73273"
            style="font-size:3.52777767px;stroke-width:0.26458332">JacksonSquare</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="211.93124"
-         y="421.48123"
+         x="212.96024"
+         y="422.79086"
          id="text12495"><tspan
            sodipodi:role="line"
            id="tspan12493"
-           x="211.93124"
-           y="421.48123"
+           x="212.96024"
+           y="422.79086"
            style="font-size:3.52777767px;stroke-width:0.26458332">Stony Brook</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="199.76042"
-         y="431.79999"
+         x="202.56676"
+         y="433.20316"
          id="text12499"><tspan
            sodipodi:role="line"
            id="tspan12497"
-           x="199.76042"
-           y="431.79999"
+           x="202.56676"
+           y="433.20316"
            style="font-size:3.52777767px;stroke-width:0.26458332">Green Street</tspan></text>
       <text
          xml:space="preserve"
@@ -6050,13 +6048,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="279.39999"
-         y="224.23438"
+         x="276.78076"
+         y="225.82463"
          id="text12239"><tspan
            sodipodi:role="line"
            id="tspan12237"
-           x="279.39999"
-           y="224.23438"
+           x="276.78076"
+           y="225.82463"
            style="font-size:3.52777767px;stroke-width:0.26458332">North Station</tspan></text>
       <text
          xml:space="preserve"
@@ -6433,13 +6431,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="196.32083"
-         y="441.85416"
+         x="195.29184"
+         y="441.47998"
          id="text12503"><tspan
            sodipodi:role="line"
            id="tspan12501"
-           x="196.32083"
-           y="441.85416"
+           x="195.29184"
+           y="441.47998"
            style="font-size:3.52777767px;stroke-width:0.26458332">Forest Hills</tspan></text>
       <text
          xml:space="preserve"
@@ -6596,24 +6594,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="299.33923"
-         y="413.58328"
+         x="299.05859"
+         y="413.11557"
          id="text6906"><tspan
            sodipodi:role="line"
            id="tspan6904"
-           x="299.33923"
-           y="413.58328"
+           x="299.05859"
+           y="413.11557"
            style="font-size:3.52777767px;stroke-width:0.26458332">Newmarket</tspan></text>
       <text
          xml:space="preserve"
-         style="display:inline;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="302.94791"
-         y="362.87604"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571013px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="303.13501"
+         y="363.53085"
          id="text12391"><tspan
            sodipodi:role="line"
            id="tspan12389"
-           x="302.94791"
-           y="362.87604"
+           x="303.13501"
+           y="363.53085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49571013px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Traveler St</tspan></text>
     </g>
     <g
