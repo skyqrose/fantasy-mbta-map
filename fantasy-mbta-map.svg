@@ -290,7 +290,7 @@
     <linearGradient
        id="Indigo_Line"
        osb:paint="solid"
-       gradientTransform="translate(49.999969,10)">
+       gradientTransform="translate(59.999969,10)">
       <stop
          style="stop-color:#7b388c;stop-opacity:1;"
          offset="0"
@@ -308,7 +308,7 @@
     <linearGradient
        id="White"
        osb:paint="solid"
-       gradientTransform="matrix(0,0,0,0,150.58214,351.05274)">
+       gradientTransform="matrix(0,0,0,0,160.58214,341.0532)">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -543,7 +543,7 @@
     <linearGradient
        id="Commuter_Rail"
        osb:paint="solid"
-       gradientTransform="matrix(0.00460095,-0.00460095,-0.00460095,-0.00460095,38.256705,306.53421)">
+       gradientTransform="matrix(0.00460095,-0.00460095,-0.00460095,-0.00460095,38.256705,296.53467)">
       <stop
          style="stop-color:#80276c;stop-opacity:1;"
          offset="0"
@@ -833,15 +833,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="883.87088"
-     inkscape:cy="738.50704"
+     inkscape:zoom="1.9178901"
+     inkscape:cx="1228.2445"
+     inkscape:cy="291.92847"
      inkscape:document-units="mm"
      inkscape:current-layer="layer43"
      showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1366"
@@ -866,7 +866,7 @@
      inkscape:guide-bbox="true"
      inkscape:measure-start="755.906,1133.86"
      inkscape:measure-end="773.928,1016.82"
-     inkscape:snap-text-baseline="false"
+     inkscape:snap-text-baseline="true"
      inkscape:snap-others="true">
     <inkscape:grid
        type="xygrid"
@@ -1053,6 +1053,137 @@
        d="m 444.68327,462.19091 c 0.74488,0.18621 1.48172,0.40807 2.23459,0.55864 0.18262,0.0365 0.37246,0 0.55867,0 0.37243,0 0.74486,0 1.11728,0 0.37243,0 0.78417,0.16656 1.11731,0 0.16656,-0.0833 -0.13168,-0.42696 0,-0.55864 0.13166,-0.13168 0.37243,0 0.55864,0 0.18622,0 0.42696,0.13168 0.55864,0 0.13169,-0.13168 -0.13168,-0.42696 0,-0.55864 0.13169,-0.13169 0.37243,0 0.55865,0 0.18621,0 0.37242,0 0.55864,0 0.18624,0 0.39211,0.0833 0.55866,0 0.23554,-0.11777 0.34796,-0.40063 0.55865,-0.55864 0.53713,-0.40286 1.13882,-0.71446 1.67595,-1.11731 0.0655,-0.0492 1.08352,-1.1004 1.11728,-1.11728 0.16655,-0.0833 0.37243,0 0.55864,0 1.04989,0 0.69077,-0.0589 2.23459,0.55864 0.38661,0.15465 0.72229,0.42698 1.11731,0.55864 0.17666,0.0589 0.37243,0 0.55864,0 0.18622,0 0.42696,-0.13166 0.55864,0 0.29443,0.29443 0.37243,0.74485 0.55864,1.11731 0.72523,1.45039 0.55867,0.70088 0.55867,2.23459 0,0.37243 0,0.74485 0,1.11728 0,0.18621 -0.0589,0.38198 0,0.55864 0.26334,0.79005 0.85394,1.44455 1.11728,2.23459 0.0589,0.17667 0,0.37243 0,0.55864 0,0.18622 0,0.37246 0,0.55867 0,0.37243 -0.0903,0.75597 0,1.11728 0.101,0.40397 0.42699,0.72229 0.55865,1.11731 0.0589,0.17664 0,0.37243 0,0.55864 0,0.55865 0,1.11729 0,1.67593 0,0.18624 -0.13166,0.42698 0,0.55867 0.13168,0.13165 0.42698,-0.13169 0.55866,0 0.13166,0.13165 -0.13168,0.42695 0,0.55864 0.13166,0.13168 0.42696,-0.13169 0.55864,0 0.26334,0.26334 -0.26336,0.85394 0,1.11728 0.13166,0.13168 0.37243,0 0.55865,0 0,0.37245 -0.16656,0.7842 0,1.11731 0.14385,0.28771 0.86233,-0.25498 1.11728,0 0.26336,0.26334 -0.26334,0.85394 0,1.11728 0.13168,0.13168 0.37245,0 0.55867,0 0.18621,0 0.37242,0 0.55864,0 1.48973,0 2.97944,0 4.46918,0 0.37243,0 0.78417,0.16656 1.11728,0 0.47109,-0.23553 0.64622,-0.88175 1.11731,-1.11728 0.33311,-0.16656 0.78417,0.16655 1.11728,0 0.16656,-0.0833 -0.13168,-0.42699 0,-0.55864 0.26334,-0.26337 0.85395,0.26334 1.11731,0 0.13166,-0.13169 -0.13168,-0.42699 0,-0.55867 0.13166,-0.13166 0.39209,0.0833 0.55864,0 0.23554,-0.11777 0.37243,-0.37243 0.55865,-0.55864 0.18621,-0.18622 0.37242,-0.37243 0.55864,-0.55864 0.18621,-0.18622 0.44087,-0.32311 0.55866,-0.55864 0.0833,-0.16656 -0.0833,-0.39209 0,-0.55867 0.11777,-0.23553 0.44085,-0.32308 0.55865,-0.55864 0.0833,-0.16656 0,-0.37243 0,-0.55864 0,-0.18622 0,-0.37243 0,-0.55865 0,-0.37242 0,-0.74488 0,-1.1173 0,-0.18622 0.0589,-0.38198 0,-0.55865 -0.13169,-0.39502 -0.42699,-0.72226 -0.55865,-1.11728 -0.0589,-0.17666 0.13166,-0.42698 0,-0.55867 -0.13168,-0.13165 -0.47537,0.16656 -0.55866,0 -0.16656,-0.33311 0,-0.74485 0,-1.11728 0,-0.37243 0.0903,-0.75599 0,-1.11731 -0.101,-0.40394 -0.42696,-0.72226 -0.55864,-1.11728 -0.0589,-0.17666 0.0589,-0.38198 0,-0.55864 -0.67509,-2.02525 -0.26506,-0.39759 -1.11729,-1.67595 -0.23098,-0.34645 -0.42698,-0.72226 -0.55867,-1.11728 -0.11776,-0.35333 0.1178,-0.76399 0,-1.11731 -0.13165,-0.39503 -0.42695,-0.72226 -0.55864,-1.11728 -0.0589,-0.17667 0.0833,-0.39209 0,-0.55867 -0.11776,-0.23553 -0.47537,-0.3088 -0.55864,-0.55864 -0.11776,-0.35333 0.11777,-0.76396 0,-1.11729 -0.0833,-0.24984 -0.37243,-0.37242 -0.55864,-0.55864 -0.37243,-0.37245 -0.88175,-0.64622 -1.11731,-1.11731 -0.16655,-0.33311 0.0903,-0.75596 0,-1.11728 -0.10099,-0.40396 -0.37243,-0.74488 -0.55864,-1.11731 -0.18621,-0.37243 -0.40399,-0.73067 -0.55864,-1.11728 -0.2187,-0.54676 -0.37243,-1.11731 -0.55864,-1.67595 -0.37246,-1.11728 -0.74488,-2.23459 -1.11731,-3.35187 -0.37243,-1.11731 -0.5906,-2.29849 -1.11728,-3.3519 -0.23556,-0.4711 -0.88175,-0.6462 -1.11731,-1.11729 -0.16656,-0.33311 0.11776,-0.76398 0,-1.11731 -0.0833,-0.24982 -0.41257,-0.33951 -0.55864,-0.55864 -0.23098,-0.34644 -0.37243,-0.74485 -0.55864,-1.11728 -1.42598,-2.85194 0.30866,0.61733 -1.11731,-2.23459 -0.37243,-0.74488 -0.85395,-1.44455 -1.11729,-2.23459 -0.11779,-0.35333 0.16656,-0.7842 0,-1.11731 -0.23555,-0.47109 -0.88175,-0.64619 -1.1173,-1.11728 -0.16656,-0.33311 0.073,-0.75211 0,-1.11731 -0.1155,-0.57743 -0.41582,-1.10464 -0.55865,-1.67593 -0.0452,-0.18065 0,-0.37242 0,-0.55864 0,-0.74488 0,-1.48973 0,-2.23459 0,-0.37245 0,-0.74488 0,-1.11731 0,-0.18621 -0.0589,-0.38198 0,-0.55864 0.33822,-1.01462 0.47813,-1.03677 1.11731,-1.67595 0.18622,-0.18621 0.47535,-0.3088 0.55864,-0.55864 0.11777,-0.35333 0,-0.74486 0,-1.11728 0,-0.18624 -0.0833,-0.39212 0,-0.55867 0.11777,-0.23553 0.47535,-0.3088 0.55865,-0.55864 0.11776,-0.35333 -0.16656,-0.78417 0,-1.11729 0.23555,-0.47109 0.88175,-0.64621 1.11728,-1.1173 1.64401,-3.28798 -2.58829,1.471 1.11731,-2.2346 0.18621,-0.18621 0.44087,-0.32308 0.55864,-0.55864 0.0833,-0.16655 0.18621,-0.55864 0,-0.55864 -0.26334,0 -0.37243,0.37243 -0.55864,0.55864 -0.37243,0.37243 -0.74486,0.74486 -1.11731,1.11729 -0.55864,0.55866 -0.9693,1.32262 -1.67593,1.67595 -0.49966,0.24984 -1.17628,-0.24982 -1.67595,0 -0.37242,0.18621 -0.26421,0.82285 -0.55864,1.1173 -0.29443,0.29443 -0.77083,0.32766 -1.11731,0.55865 -0.2191,0.14607 -0.33951,0.41256 -0.55864,0.55864 -1.75971,1.17316 -0.48807,0.32107 -1.67595,0.55864 -0.75287,0.15057 -1.49632,0.34771 -2.23456,0.55867 -0.56621,0.16176 -1.09853,0.44315 -1.67595,0.55864 -0.36521,0.073 -0.74486,0 -1.11731,0 -0.37243,0 -0.74486,0 -1.11728,0 -1.48974,0 -2.97945,0 -4.46919,0 -0.93107,0 -1.86216,0 -2.79323,0 -0.55864,0 -1.14596,0.17666 -1.67595,0 -0.17666,-0.0589 0.0833,-0.39209 0,-0.55864 -0.0802,-0.16039 -1.07572,-0.99256 -1.11728,-1.11731 -0.43598,-1.30792 0.0449,-0.90538 0.55864,-1.67595 0.23098,-0.34645 0.26421,-0.82286 0.55864,-1.11729 0.29443,-0.29442 0.7842,-0.30882 1.11731,-0.55864 0.42135,-0.31602 0.64619,-0.88175 1.11728,-1.11731 0.33311,-0.16655 0.76399,0.11777 1.11731,0 0.24982,-0.0833 0.31411,-0.46082 0.55864,-0.55864 0.71287,-0.28514 1.5062,-0.31586 2.23459,-0.55864 0.39503,-0.13168 0.71332,-0.45767 1.11729,-0.55864 0.36131,-0.0903 0.74993,0.0612 1.1173,0 0.75735,-0.12623 1.47725,-0.43243 2.2346,-0.55867 0.36734,-0.0612 0.76395,0.1178 1.11728,0 0.24984,-0.0833 0.30882,-0.47535 0.55864,-0.55864 0.35332,-0.11776 0.74488,0 1.11731,0 0.37243,0 0.74485,0 1.11728,0 0.37243,0 0.756,0.0903 1.11731,0 0.0452,-0.0114 2.16736,-1.0949 2.23459,-1.11728 0.17666,-0.0589 0.37243,0 0.55864,0 0.18622,0 0.37243,0 0.55864,0 1.11731,0 2.2346,0 3.35188,0 0.18624,0 0.37245,0 0.55867,0 0.18621,0 0.39208,0.0833 0.55864,0 0.23553,-0.11779 0.32311,-0.44088 0.55864,-0.55867 0.16655,-0.0833 0.37243,0 0.55864,0 0.18621,0 0.37245,0 0.55867,0 0.18621,0 0.42696,0.13168 0.55864,0 0.13168,-0.13166 -0.18622,-0.55864 0,-0.55864 0.26334,0 0.50699,0.30041 0.55864,0.55864 0.14608,0.73041 0,1.48974 0,2.23459 0,2.97948 0,5.95892 0,8.93837 0,2.23459 0,4.46918 0,6.70377 0,0.37243 0,0.74486 0,1.11729 0,0.55864 -0.10956,1.12815 0,1.67595 0.0817,0.4083 0.37243,0.74485 0.55864,1.11728 0.18621,0.74488 0.43244,1.47725 0.55867,2.23459 0.0612,0.36737 0,0.74488 0,1.11731 0,0.37243 -0.16658,0.78417 0,1.11728 0.23553,0.47109 0.88172,0.64622 1.11728,1.11731 0.34338,0.68673 0.2735,1.5217 0.55864,2.23459 0.0978,0.2445 0.37243,0.37243 0.55864,0.55864 0.18624,0.37243 0.45768,0.71335 0.55867,1.11729 0.56462,2.25853 -0.79785,-0.0262 0.55864,2.23459 0.37243,0.55864 0.74486,1.11731 1.11728,1.67595 0.18622,0.18621 0.41257,0.33951 0.55867,0.55864 0.23096,0.34647 0.3088,0.78417 0.55864,1.11731 0.31602,0.42135 0.80127,0.69593 1.11729,1.11728 0.24984,0.33311 0.30882,0.78417 0.55866,1.11728 0.31602,0.42138 0.80127,0.69596 1.11729,1.11731 0.24984,0.33311 0.26421,0.82285 0.55864,1.11728 2.90361,2.90362 0.5819,-0.52956 2.79323,2.23459 0.41944,0.5243 0.68747,1.16018 1.11731,1.67595 0.50578,0.60693 1.1824,1.05903 1.67595,1.67596 0.26011,0.32514 0.26421,0.82285 0.55864,1.11728 0.47474,0.47477 1.13882,0.71445 1.67592,1.11731 0.21069,0.15801 0.37246,0.37242 0.55867,0.55864 0.37243,0.37243 0.74486,0.74485 1.11728,1.11728 0.18622,0.18621 0.33954,0.41256 0.55865,0.55867 0.34647,0.23095 0.82288,0.26421 1.1173,0.55864 0.29443,0.29443 0.26422,0.82285 0.55865,1.11728 0.74485,0.74488 0.55864,-0.93107 0.55864,0.55864"
        id="path9390"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="Commuter Rail Terminal Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="416.25195"
+       y="100"
+       id="text13662"><tspan
+         sodipodi:role="line"
+         id="tspan13660"
+         x="416.25195"
+         y="100"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Rockport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="370"
+       y="100"
+       id="text13666"><tspan
+         sodipodi:role="line"
+         id="tspan13664"
+         x="370"
+         y="100"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Newburyport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="310"
+       y="100"
+       id="text13666-6"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1"
+         x="310"
+         y="100"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Haverhill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190"
+       y="100.00002"
+       id="text13666-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9"
+         x="190"
+         y="100.00002"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Lowell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10"
+       y="202.72603"
+       id="text13666-6-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9-1"
+         x="10"
+         y="202.72603"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Wachusett</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10"
+       y="342.56406"
+       id="text13666-6-2-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9-1-4"
+         x="10"
+         y="342.56406"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Worcester</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="193.10556"
+       y="484.35004"
+       id="text13666-6-2-3-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9-1-4-8"
+         x="193.10556"
+         y="484.35004"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Providence</tspan><tspan
+         sodipodi:role="line"
+         x="193.10556"
+         y="488.75977"
+         style="font-size:3.52777767px;stroke-width:0.26458332"
+         id="tspan13778">and Stoughton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="135.37875"
+       y="488.27222"
+       id="text13666-6-2-3-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9-1-4-5"
+         x="135.37875"
+         y="488.27222"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Forge Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="373.55136"
+       y="488.62192"
+       id="text13666-6-2-3-9-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan13664-1-9-1-4-5-3"
+         x="373.55136"
+         y="488.62192"
+         style="font-size:3.52777767px;stroke-width:0.26458332">To Middleborough</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="416.90128"
+       y="487.72058"
+       id="text13818"><tspan
+         sodipodi:role="line"
+         id="tspan13816"
+         x="416.90128"
+         y="487.72058"
+         style="stroke-width:0.26458332">To Plymouth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="413.59033"
+       y="468.95859"
+       id="text13822"><tspan
+         sodipodi:role="line"
+         id="tspan13820"
+         x="413.59033"
+         y="468.95859"
+         style="stroke-width:0.26458332">To Greenbush</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4325,7 +4456,7 @@
       <circle
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Indigo_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path5765-7-30"
-         cx="220"
+         cx="230"
          cy="478"
          r="1" />
       <circle
@@ -4600,7 +4731,7 @@
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path5765-8-0"
          cx="190"
-         cy="467.99954"
+         cy="458"
          r="0.5" />
       <circle
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
@@ -6465,13 +6596,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="392.60559"
-         y="463.37933"
+         x="392.74356"
+         y="464.06912"
          id="text12423"><tspan
            sodipodi:role="line"
            id="tspan12421"
-           x="392.60559"
-           y="463.37933"
+           x="392.74356"
+           y="464.06912"
            style="font-size:3.52777767px;stroke-width:0.26458332">Quincy Adams</tspan></text>
       <text
          xml:space="preserve"
@@ -6964,23 +7095,23 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="192.73708"
-         y="469.35196"
+         y="459.05835"
          id="text12519"><tspan
            sodipodi:role="line"
            id="tspan12517"
            x="192.73708"
-           y="469.35196"
+           y="459.05835"
            style="font-size:3.52777767px;stroke-width:0.26458332">Hyde Park</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="217.75208"
-         y="474.39792"
+         x="223.89767"
+         y="475.12955"
          id="text12523"><tspan
            sodipodi:role="line"
            id="tspan12521"
-           x="217.75208"
-           y="474.39792"
+           x="223.89767"
+           y="475.12955"
            style="font-size:3.52777767px;stroke-width:0.26458332">Fairmount</tspan></text>
       <text
          xml:space="preserve"
@@ -7422,13 +7553,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571037px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="199.05362"
-         y="485.01941"
+         x="202.46783"
+         y="474.81082"
          id="text12515-3"><tspan
            sodipodi:role="line"
            id="tspan12513-9"
-           x="199.05362"
-           y="485.01941"
+           x="202.46783"
+           y="474.81082"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.49571037px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Readville</tspan></text>
       <text
          xml:space="preserve"
@@ -7708,7 +7839,7 @@
       <g
          id="g10787-2"
          style="display:inline"
-         transform="translate(-154.65147,371.47006)">
+         transform="translate(-151.66579,361.85587)">
         <rect
            ry="2"
            y="109.89036"
