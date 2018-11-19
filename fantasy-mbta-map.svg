@@ -833,11 +833,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9178901"
-     inkscape:cx="824.23038"
-     inkscape:cy="1267.0345"
+     inkscape:zoom="0.67807655"
+     inkscape:cx="980.67368"
+     inkscape:cy="1044.7883"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer43"
+     inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:snap-bbox="false"
      inkscape:snap-bbox-midpoints="true"
@@ -890,8 +890,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer41"
-     inkscape:label="Water"
-     style="display:none"
+     inkscape:label="Water Sketch"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1056,6 +1056,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer31"
+     inkscape:label="Water" />
+  <g
+     inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="Commuter Rail Terminal Text">
     <text
@@ -1072,13 +1076,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="370"
-       y="100"
+       x="367.65475"
+       y="99.448181"
        id="text13666"><tspan
          sodipodi:role="line"
          id="tspan13664"
-         x="370"
-         y="100"
+         x="367.65475"
+         y="99.448181"
          style="font-size:3.52777767px;stroke-width:0.26458332">To Newburyport</tspan></text>
     <text
        xml:space="preserve"
@@ -6813,13 +6817,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="214.18324"
-         y="192.77728"
+         x="219.08066"
+         y="192.7083"
          id="text12261"><tspan
            sodipodi:role="line"
            id="tspan12259"
-           x="214.18324"
-           y="192.77728"
+           x="219.08066"
+           y="192.7083"
            style="font-size:3.52777767px;stroke-width:0.26458332">Conway</tspan></text>
       <text
          xml:space="preserve"
@@ -10635,4 +10639,34 @@
          inkscape:export-ydpi="100" />
     </g>
   </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 214.60826,124.0463 h 31.99615 l 37.654,37.65399"
+     id="path15537"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 309.81628,128.33846 v 33.16673"
+     id="path15539"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 286.79468,162.28559 h 28.09417 l 0,33.55693"
+     id="path15541"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 388.24587,173.99149 v 35.50792"
+     id="path15543"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 322.30261,197.7935 h 33.94712 v 35.50792"
+     id="path15545"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 387.85567,209.10921 H 363.27326"
+     id="path15547"
+     inkscape:connector-curvature="0" />
 </svg>
