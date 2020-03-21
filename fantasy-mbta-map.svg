@@ -304,7 +304,7 @@
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,833.69623,1024.453)"
+       gradientTransform="matrix(0,0,0,0,843.69536,1029.4538)"
        osb:paint="solid"
        id="White">
       <stop
@@ -521,7 +521,7 @@
          style="stop-color:#003da5;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,366.24141,572.54715)"
+       gradientTransform="matrix(0,0,0,0,376.24054,582.54803)"
        osb:paint="solid"
        id="Pink_Line">
       <stop
@@ -530,7 +530,7 @@
          style="stop-color:#ea7cff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,459.67386,219.05747)"
+       gradientTransform="matrix(0,0,0,0,459.67386,214.05747)"
        osb:paint="solid"
        id="Orange_Line">
       <stop
@@ -855,12 +855,12 @@
      inkscape:snap-global="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="false"
-     showgrid="false"
-     inkscape:current-layer="layer41"
+     showgrid="true"
+     inkscape:current-layer="layer43"
      inkscape:document-units="mm"
-     inkscape:cy="1115.4913"
-     inkscape:cx="1052.8091"
-     inkscape:zoom="0.5"
+     inkscape:cy="806.72329"
+     inkscape:cx="1078.5346"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1055,6 +1055,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
+     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:groupmode="layer"
      id="layer47"
@@ -1165,12 +1166,12 @@
          inkscape:connector-curvature="0"
          id="path2546"
          d="m 450.23039,252.68297 v 15.3319 l 10.93907,10.93909"
-         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2548"
          d="m 436.66327,381.59565 h 22.06874 v -13.88467"
-         style="fill:none;stroke:#b3b3b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:none;stroke:#b3b3b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
@@ -1306,7 +1307,7 @@
          sodipodi:role="line">To Greenbush</tspan></text>
   </g>
   <g
-     style="display:inline;opacity:0.33890344"
+     style="display:inline;opacity:1"
      inkscape:label="Lines"
      id="layer16"
      inkscape:groupmode="layer"
@@ -3150,8 +3151,7 @@
      style="display:inline"
      inkscape:label="Stops"
      id="layer21"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline"
        inkscape:label="Transfer"
@@ -4166,7 +4166,7 @@
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Green_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <circle
          r="1.5"
-         cy="208"
+         cy="203"
          cx="304"
          id="path5765-3"
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Orange_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
@@ -4400,14 +4400,14 @@
          r="1" />
       <circle
          r="1.5"
-         cy="208.35356"
-         cx="289.64645"
+         cy="213.354"
+         cx="294.646"
          id="path5765-88-3-3"
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Pink_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <circle
          r="1.5"
-         cy="198.35356"
-         cx="279.64642"
+         cy="203.354"
+         cx="284.646"
          id="path5765-88-3-0"
          style="display:inline;opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Pink_Line);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <circle
@@ -5238,7 +5238,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Station Labels"
      id="layer15"
      inkscape:groupmode="layer">
@@ -6782,24 +6782,24 @@
            sodipodi:role="line">College</tspan></text>
       <text
          id="text12249"
-         y="211.52325"
-         x="266.15375"
+         y="215.98848"
+         x="270.78342"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="font-size:3.52778px;stroke-width:0.264583"
-           y="211.52325"
-           x="266.15375"
+           y="215.98848"
+           x="270.78342"
            id="tspan12247"
            sodipodi:role="line">Science Park</tspan></text>
       <text
          id="text12253"
-         y="201.40202"
-         x="262.02496"
+         y="205.6698"
+         x="265.63931"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="font-size:3.52778px;stroke-width:0.264583"
-           y="201.40202"
-           x="262.02496"
+           y="205.6698"
+           x="265.63931"
            id="tspan12251"
            sodipodi:role="line">Lechmere</tspan></text>
       <text
