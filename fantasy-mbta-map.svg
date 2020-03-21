@@ -852,15 +852,15 @@
      inkscape:window-x="1920"
      inkscape:window-height="1043"
      inkscape:window-width="1920"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="false"
-     showgrid="false"
-     inkscape:current-layer="layer16"
+     showgrid="true"
+     inkscape:current-layer="layer48"
      inkscape:document-units="mm"
-     inkscape:cy="959.40314"
-     inkscape:cx="1174.9528"
-     inkscape:zoom="0.35355339"
+     inkscape:cy="1413.1223"
+     inkscape:cx="1588.2603"
+     inkscape:zoom="1.4142136"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1055,11 +1055,34 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="layer47"
      inkscape:label="Water">
+    <g
+       style="opacity:1"
+       id="g2613">
+      <path
+         id="path2615"
+         d="m 390,313 h 90"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1.0;anonymous:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;" />
+      <path
+         id="path2617"
+         d="M 390 303 L 390 323 L 480 323 L 480 303 L 390 303 z "
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1.0;anonymous:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;" />
+    </g>
+    <g
+       inkscape:label="Harbor South"
+       id="layer48"
+       inkscape:groupmode="layer">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         transform="scale(0.26458333)"
+         d="m 1700.7871,408.18945 -151.1816,151.17969 v 151.18164 l 151.1816,151.18164 v 113.38477 h -75.5898 V 861.73242 h -113.3868 l -37.7949,37.79492 75.5899,75.58985 v -75.58985 h 37.7968 v 113.38676 l 56.6915,56.6914 h 56.6933 v 37.7968 h -18.8965 -94.4883 v 37.795 h 132.2832 l 56.6934,56.6933 h -188.9766 l 94.0118,94.0117 -207.4434,0.4766 0.09,37.7949 245.0606,-0.5644 38.3592,38.3591 h -94.4881 v 56.6936 l -37.7949,37.7949 H 1322.834 v 37.795 l 37.7969,37.7949 -26.7227,26.7304 -11.0742,-11.0761 v 22.1406 l 113.3867,113.3867 h 453.543 V 1201.8906 408.18945 Z"
+         style="fill:#008080;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2576" />
+    </g>
     <path
        style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 200,232.17149 V 288"
@@ -1147,31 +1170,29 @@
        id="path2537"
        d="m 363.42145,428.4028 -43.65009,43.65008"
        style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path2539"
-       d="M 444.31198,452.93324 H 386.91751 L 349.51027,415.526 v -7.12872 l 9.24679,9.24679 5.19324,-5.19324 -13.68512,-13.68512 v -10.1636 h 77.8882 l 8.39782,-6.74947 V 366.5905 h 22.46857 l -11.4092,-11.40921 h -40.20669 l 0.0965,-13.83329 h 30.32207 l -18.77322,-18.77322 h -52.43205"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2543"
-       d="m 364.86745,271.17606 h 22.92943 v 33.44569 h 34.9841 v -12.46741 h 21.09825 V 278.2421 h -12.79774 l -11.65571,-11.65572 v -24.04482 h -11.38267 v 14.31841 l -16.35823,-16.35824 -4.32848,-4.32849 12.15218,-12.1522 h 26.79075 v 27.2809 h 23.28117 v -27.46898 l -40.55838,-40.55838 v -68.17286"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        inkscape:label="Land Peninsulas"
        id="layer37"
        inkscape:groupmode="layer">
       <path
+         sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path2546"
-         d="m 450.23039,252.68297 v 15.3319 l 10.93907,10.93909"
-         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 448.5,258 v 15 l 10,10"
+         style="fill:none;stroke:#ececec;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path2548"
          d="m 436.66327,381.59565 h 22.06874 v -13.88467"
          style="fill:none;stroke:#b3b3b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         style="opacity:1"
+         id="g2593">
+        <path
+           id="path2595"
+           d="M 411.59827,288 H 450"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1.0;anonymous:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;" />
+      </g>
     </g>
   </g>
   <g
@@ -1308,7 +1329,7 @@
          sodipodi:role="line">To Greenbush</tspan></text>
   </g>
   <g
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      inkscape:label="Lines"
      id="layer16"
      inkscape:groupmode="layer"
@@ -2851,7 +2872,7 @@
          style="opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Silver Line"
        id="layer25"
        inkscape:groupmode="layer">
@@ -2923,7 +2944,7 @@
          style="display:inline;fill:none;stroke:url(#Silver_Line);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="Green Line"
        id="layer36"
        inkscape:groupmode="layer">
@@ -3137,7 +3158,7 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:label="Stops"
      id="layer21"
      inkscape:groupmode="layer">
