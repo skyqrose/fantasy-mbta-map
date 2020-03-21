@@ -855,12 +855,12 @@
      inkscape:snap-global="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="false"
-     showgrid="true"
-     inkscape:current-layer="layer43"
+     showgrid="false"
+     inkscape:current-layer="layer16"
      inkscape:document-units="mm"
-     inkscape:cy="806.72329"
-     inkscape:cx="1078.5346"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="959.40314"
+     inkscape:cx="1174.9528"
+     inkscape:zoom="0.35355339"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1056,7 +1056,7 @@
   </g>
   <g
      sodipodi:insensitive="true"
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="layer47"
      inkscape:label="Water">
@@ -1175,6 +1175,7 @@
     </g>
   </g>
   <g
+     style="display:none"
      inkscape:label="Commuter Rail Terminal Text"
      id="layer24"
      inkscape:groupmode="layer"
@@ -1307,7 +1308,7 @@
          sodipodi:role="line">To Greenbush</tspan></text>
   </g>
   <g
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      inkscape:label="Lines"
      id="layer16"
      inkscape:groupmode="layer"
@@ -1833,8 +1834,7 @@
       <g
          inkscape:label="Route 71/73"
          id="layer39"
-         inkscape:groupmode="layer"
-         style="">
+         inkscape:groupmode="layer">
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -1997,8 +1997,7 @@
       <g
          inkscape:label="Route 57"
          id="layer38"
-         inkscape:groupmode="layer"
-         style="">
+         inkscape:groupmode="layer">
         <path
            transform="scale(1,-1)"
            sodipodi:open="true"
@@ -2067,8 +2066,7 @@
          sodipodi:insensitive="true"
          inkscape:label="Route 39"
          id="layer40"
-         inkscape:groupmode="layer"
-         style="">
+         inkscape:groupmode="layer">
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
@@ -2853,7 +2851,7 @@
          style="opacity:1;fill:url(#White);fill-opacity:1;stroke:url(#Commuter_Rail);stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Silver Line"
        id="layer25"
        inkscape:groupmode="layer">
@@ -2925,7 +2923,7 @@
          style="display:inline;fill:none;stroke:url(#Silver_Line);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="Green Line"
        id="layer36"
        inkscape:groupmode="layer">
@@ -3138,17 +3136,8 @@
     </g>
   </g>
   <g
-     style="display:inline"
-     inkscape:label="GL sketch"
-     id="layer13"
-     inkscape:groupmode="layer" />
-  <g
-     inkscape:groupmode="layer"
-     id="g1693"
-     inkscape:label="GL sketch copy"
-     style="display:inline" />
-  <g
-     style="display:inline"
+     sodipodi:insensitive="true"
+     style="display:none"
      inkscape:label="Stops"
      id="layer21"
      inkscape:groupmode="layer">
@@ -5238,7 +5227,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Station Labels"
      id="layer15"
      inkscape:groupmode="layer">
