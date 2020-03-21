@@ -852,15 +852,15 @@
      inkscape:window-x="1920"
      inkscape:window-height="1043"
      inkscape:window-width="1920"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="false"
-     showgrid="true"
-     inkscape:current-layer="layer47"
+     showgrid="false"
+     inkscape:current-layer="layer37"
      inkscape:document-units="mm"
-     inkscape:cy="996.82923"
-     inkscape:cx="1425.7333"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="1082.2253"
+     inkscape:cx="992.77978"
+     inkscape:zoom="0.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -889,7 +889,7 @@
   </metadata>
   <g
      sodipodi:insensitive="true"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Water Sketch"
      id="layer41"
      inkscape:groupmode="layer">
@@ -1055,11 +1055,11 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:label="Water Draft"
      id="layer31"
      inkscape:groupmode="layer"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        id="path15537"
@@ -1117,14 +1117,21 @@
        d="M 340.86797,194.64338 326.06294,182.93754"
        id="path2765"
        inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2541"
+       d="m 365.76346,271.03803 h 22.40587 v 31.25139 h 33.72721 v -10.95373 h 19.35528 v -11.5884 h -7.71214 l -13.30949,-14.39887 -0.50475,-22.4133 h -10.09392 v 12.47341 l -17.53628,-16.83278"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
+     style="display:inline"
      inkscape:groupmode="layer"
      id="layer47"
      inkscape:label="Water">
     <path
        style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 200,232.17149 200,288"
+       d="M 200,232.17149 V 288"
        id="path2772"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1141,7 +1148,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 260,287.99999 V 268 l 19.99999,-20 v -40 h 69.99999"
        id="path2781"
        inkscape:connector-curvature="0" />
@@ -1153,7 +1160,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 180,123 85,0"
+       d="m 180,123 h 85"
        id="path2785"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1175,12 +1182,12 @@
        id="path2791"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 389.99998,188 v 20"
        id="path2793"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#000000;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 359.99999,208 h 29.99999"
        id="path2795"
        inkscape:connector-curvature="0" />
@@ -1188,12 +1195,54 @@
        inkscape:connector-curvature="0"
        id="path2529"
        d="M 359.99999,208 V 318.00001"
-       style="fill:none;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:none;stroke:#000080;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2531"
+       d="m 228.38734,483.09114 h 49.42045"
+       style="fill:none;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2533"
+       d="M 273.15863,484.89113 286.3741,471.67564"
+       style="fill:none;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2535"
+       d="m 282.14648,472.27013 h 32.39804"
+       style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2537"
+       d="m 363.42145,428.4028 -43.65009,43.65008"
+       style="fill:none;stroke:#000080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2539"
+       d="M 444.31198,452.93324 H 386.91751 L 349.51027,415.526 v -7.12872 l 9.24679,9.24679 5.19324,-5.19324 -13.68512,-13.68512 v -10.1636 h 77.8882 l 8.39782,-6.74947 V 366.5905 h 22.46857 l -11.4092,-11.40921 h -40.20669 l 0.0965,-13.83329 h 30.32207 l -18.77322,-18.77322 h -52.43205"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2543"
+       d="m 364.86745,271.17606 h 22.92943 v 33.44569 h 34.9841 v -12.46741 h 21.09825 V 278.2421 h -12.79774 l -11.65571,-11.65572 v -24.04482 h -11.38267 v 14.31841 l -16.35823,-16.35824 -4.32848,-4.32849 12.15218,-12.1522 h 26.79075 v 27.2809 h 23.28117 v -27.46898 l -40.55838,-40.55838 v -68.17286"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:label="Land Peninsulas"
+       id="layer37"
+       inkscape:groupmode="layer">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2546"
+         d="m 450.23039,252.68297 v 15.3319 l 10.93907,10.93909"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2548"
+         d="m 436.66327,381.59565 h 22.06874 v -13.88467"
+         style="fill:none;stroke:#b3b3b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer37"
-     inkscape:label="Water Spray" />
   <g
      inkscape:label="Commuter Rail Terminal Text"
      id="layer24"
