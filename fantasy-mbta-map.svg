@@ -873,11 +873,11 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="true"
      showgrid="true"
-     inkscape:current-layer="layer34"
+     inkscape:current-layer="layer46"
      inkscape:document-units="mm"
-     inkscape:cy="700.79034"
-     inkscape:cx="1356.2274"
-     inkscape:zoom="4"
+     inkscape:cy="743.2745"
+     inkscape:cx="1208.0683"
+     inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -905,6 +905,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      style="display:inline;opacity:1"
      inkscape:groupmode="layer"
      id="layer47"
@@ -1105,7 +1106,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Commuter Rail Terminal Text"
      id="layer24"
      inkscape:groupmode="layer">
@@ -5214,6 +5215,17 @@
            x="111.60126"
            id="tspan11958"
            sodipodi:role="line">Union Square</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="371.75195"
+         y="173.07947"
+         id="text11960-3"><tspan
+           id="tspan5077"
+           sodipodi:role="line"
+           x="371.75195"
+           y="173.07947"
+           style="stroke-width:0.264583">Revere Center</tspan></text>
     </g>
     <g
        style="display:inline"
