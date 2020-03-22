@@ -493,7 +493,7 @@
          style="stop-color:#ff00ff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,132.34347,342.23636)"
+       gradientTransform="matrix(0,0,0,0,476.48292,216.85796)"
        osb:paint="solid"
        id="Bus">
       <stop
@@ -873,11 +873,11 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="true"
      showgrid="true"
-     inkscape:current-layer="layer47"
+     inkscape:current-layer="layer34"
      inkscape:document-units="mm"
-     inkscape:cy="868.51051"
-     inkscape:cx="1274.8302"
-     inkscape:zoom="1.4142136"
+     inkscape:cy="700.79034"
+     inkscape:cx="1356.2274"
+     inkscape:zoom="4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -905,7 +905,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      style="display:inline;opacity:1"
      inkscape:groupmode="layer"
      id="layer47"
@@ -940,7 +939,6 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:none"
      inkscape:label="Water Sketch"
      id="layer41"
@@ -1110,8 +1108,7 @@
      style="display:none"
      inkscape:label="Commuter Rail Terminal Text"
      id="layer24"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        id="text13662"
        y="100"
@@ -1243,8 +1240,7 @@
      style="display:inline;opacity:1"
      inkscape:label="Lines"
      id="layer16"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline"
        inkscape:label="Commuter Rail"
@@ -1670,7 +1666,6 @@
        id="layer28"
        inkscape:groupmode="layer">
       <g
-         sodipodi:insensitive="true"
          style="display:inline"
          inkscape:label="Route 116/117"
          id="layer35"
@@ -1751,7 +1746,6 @@
            sodipodi:arc-type="arc" />
       </g>
       <g
-         sodipodi:insensitive="true"
          style="display:inline"
          inkscape:label="Route 111"
          id="layer34"
@@ -1760,10 +1754,31 @@
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path11081-6"
-           d="M 369,187.99999 V 158"
+           d="M 369.00001,177.57375 369,158"
            style="display:inline;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 307,243.71573 59.07108,-59.07091"
+           id="path11081-6-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:arc-type="arc"
+           id="circle12268-5-34-0-5"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           sodipodi:type="arc"
+           sodipodi:cx="379.41495"
+           sodipodi:cy="128.28773"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           d="m 389.41495,128.28773 a 10,10 0 0 1 -2.92893,7.07107"
+           sodipodi:open="true"
+           transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)" />
       </g>
       <g
+         style="display:inline"
          inkscape:label="Route 71/73"
          id="layer39"
          inkscape:groupmode="layer">
@@ -1927,6 +1942,7 @@
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
+         style="display:inline"
          inkscape:label="Route 57"
          id="layer38"
          inkscape:groupmode="layer">
@@ -1995,7 +2011,7 @@
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
-         sodipodi:insensitive="true"
+         style="display:inline"
          inkscape:label="Route 39"
          id="layer40"
          inkscape:groupmode="layer">
@@ -2047,7 +2063,6 @@
            sodipodi:arc-type="arc" />
       </g>
       <g
-         sodipodi:insensitive="true"
          style="display:inline"
          inkscape:label="Route 32"
          id="layer32"
@@ -2166,7 +2181,6 @@
            style="fill:none;stroke:url(#Bus);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
-         sodipodi:insensitive="true"
          style="display:inline"
          inkscape:label="Route 21"
          id="layer30"
@@ -3068,7 +3082,6 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:label="Stops"
      id="layer21"
@@ -5159,7 +5172,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Station Labels"
      id="layer15"
      inkscape:groupmode="layer">
@@ -8416,7 +8429,6 @@
      id="layer7"
      inkscape:groupmode="layer">
     <g
-       sodipodi:insensitive="true"
        transform="translate(0,211.00001)"
        style="display:none"
        inkscape:label="Points"
