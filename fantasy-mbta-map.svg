@@ -1343,10 +1343,10 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer31"
+     inkscape:current-layer="layer44"
      inkscape:document-units="mm"
-     inkscape:cy="1053.7923"
-     inkscape:cx="683.99533"
+     inkscape:cy="578.15339"
+     inkscape:cx="1317.6076"
      inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -6110,13 +6110,11 @@
          id="tspan4841-7-2-8">117</tspan></text>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:label="Station Labels"
      id="layer15"
      inkscape:groupmode="layer">
     <g
-       sodipodi:insensitive="true"
        style="display:inline"
        inkscape:label="Bus Stops"
        id="layer46"
@@ -6178,7 +6176,6 @@
            id="tspan5077-2">Woodlawn</tspan></text>
     </g>
     <g
-       sodipodi:insensitive="true"
        style="display:inline"
        inkscape:label="Stop Names"
        id="layer44"
@@ -6465,18 +6462,18 @@
            y="135.73125"
            x="332.18436"
            id="tspan12213"
-           sodipodi:role="line">?</tspan></text>
+           sodipodi:role="line">Ferryway</tspan></text>
       <text
          id="text12219"
          y="126.20625"
          x="323.32083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
+           id="tspan5822"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
            y="126.20625"
            x="323.32083"
-           id="tspan12217"
-           sodipodi:role="line">?</tspan></text>
+           sodipodi:role="line">Malden Square</tspan></text>
       <text
          id="text12431"
          y="342.89615"
@@ -7089,6 +7086,17 @@
            x="324.93463"
            y="422.35571"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="351.29239"
+         y="156.04883"
+         id="text12187-0"><tspan
+           sodipodi:role="line"
+           id="tspan12185-6"
+           x="351.29239"
+           y="156.04883"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Nichols St</tspan></text>
     </g>
     <text
        id="text12303"
