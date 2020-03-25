@@ -24,6 +24,14 @@
      id="defs2">
     <linearGradient
        osb:paint="solid"
+       id="Landmark">
+      <stop
+         id="stop5893"
+         offset="0"
+         style="stop-color:#b7b7b7;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
        id="Water">
       <stop
          id="stop5782"
@@ -546,7 +554,7 @@
          style="stop-color:#ffce0c;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,230.88006,582.19291)"
+       gradientTransform="matrix(0,0,0,0,465.31994,528.94713)"
        osb:paint="solid"
        id="Silver_Line">
       <stop
@@ -1310,6 +1318,16 @@
        id="linearGradient5802"
        xlink:href="#linearGradient4488"
        inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(2.0959998,-0.02201714,0.07171421,0.64349745,-457.23433,117.77518)"
+       gradientUnits="userSpaceOnUse"
+       y2="281.23487"
+       x2="412.8239"
+       y1="281.23487"
+       x1="395.30486"
+       id="linearGradient5897"
+       xlink:href="#Landmark"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -1343,11 +1361,11 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer44"
+     inkscape:current-layer="layer37"
      inkscape:document-units="mm"
-     inkscape:cy="578.15339"
-     inkscape:cx="1317.6076"
-     inkscape:zoom="2.8284271"
+     inkscape:cy="954.1305"
+     inkscape:cx="1365.0594"
+     inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1431,6 +1449,42 @@
          d="m 340,208 h 50.5"
          id="path4815" />
     </g>
+  </g>
+  <g
+     inkscape:label="Landmarks"
+     id="layer37"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.14018026,-0.14018026,0.14018026,0.14018026,390.96044,280.28204)"
+       id="g5954"
+       style="fill:url(#Landmark)">
+      <path
+         style="fill:url(#Landmark)"
+         inkscape:connector-curvature="0"
+         d="M 94.29,42.57 A 20.83,20.83 0 0 0 87.23,41.08 H 74.09 a 8.19,8.19 0 0 1 -5.86,-2.94 l -26,-35.2 A 8.22,8.22 0 0 0 36.37,0 h -2.1 A 2.64,2.64 0 0 0 31.55,3.5 L 41,37.58 a 2.65,2.65 0 0 1 -2.72,3.5 H 20.17 A 8.23,8.23 0 0 1 14.31,38.14 L 8.55,30.29 A 7.67,7.67 0 0 0 3.19,27.34 3.45,3.45 0 0 0 0,31 v 38 a 3.55,3.55 0 0 0 3.45,3.63 7.93,7.93 0 0 0 5.61,-2.94 l 5.76,-7.86 a 8.21,8.21 0 0 1 5.85,-2.94 H 38.32 A 2.65,2.65 0 0 1 41,62.42 L 31.55,96.5 a 2.64,2.64 0 0 0 2.72,3.5 h 2.1 a 8.22,8.22 0 0 0 5.87,-2.94 l 26,-35.2 A 8.19,8.19 0 0 1 74.1,58.92 H 87.23 A 42.76,42.76 0 0 0 94.54,58.16 6.5,6.5 0 0 0 97.33,56.3 8.81,8.81 0 0 0 100,50 c 0,-4.9 -5.71,-7.43 -5.71,-7.43 z"
+         id="path5943" />
+    </g>
+    <text
+       id="text5887"
+       y="268.28638"
+       x="383.36795"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+         y="268.28638"
+         x="383.36795"
+         id="tspan5885"
+         sodipodi:role="line">Logan</tspan><tspan
+         id="tspan5889"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+         y="272.69611"
+         x="383.36795"
+         sodipodi:role="line">International</tspan><tspan
+         id="tspan5891"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+         y="277.10583"
+         x="383.36795"
+         sodipodi:role="line">Airport</tspan></text>
   </g>
   <g
      style="display:none"
@@ -8465,7 +8519,6 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Porter</tspan></text>
     </g>
     <g
-       sodipodi:insensitive="true"
        style="display:inline"
        inkscape:label="Route End Text"
        id="layer45"
@@ -8745,7 +8798,6 @@
            sodipodi:role="line">Arlington Heights</tspan></text>
     </g>
     <g
-       sodipodi:insensitive="true"
        style="display:inline"
        inkscape:label="Route End Labels"
        id="layer42"
