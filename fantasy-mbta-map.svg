@@ -7177,7 +7177,6 @@
        y="376.66373"
        id="text8536" />
     <g
-       sodipodi:insensitive="true"
        inkscape:groupmode="layer"
        id="layer43"
        inkscape:label="Station Names"
@@ -7840,18 +7839,6 @@
            x="40.878613"
            y="501.82153"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">World Trade Center</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="47.12291"
-         y="509.02048"
-         id="text12451"
-         transform="rotate(-45)"><tspan
-           sodipodi:role="line"
-           id="tspan12449"
-           x="47.12291"
-           y="509.02048"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Green Line Way</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -8796,6 +8783,18 @@
            x="82.992111"
            y="118.13618"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Arlington Heights</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="56.360146"
+         y="510.06937"
+         id="text12451"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan12449"
+           x="56.360146"
+           y="510.06937"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Green Line Way</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -9341,7 +9340,7 @@
       <g
          style="display:inline"
          id="g6322-9"
-         transform="translate(292.93543,6.7038836)">
+         transform="translate(326.2242,15.115703)">
         <rect
            ry="2"
            y="306.80701"
@@ -9365,7 +9364,7 @@
       <g
          style="display:inline"
          id="g6327-7"
-         transform="translate(299.7616,1.9691567)">
+         transform="translate(333.05037,10.380976)">
         <rect
            ry="2"
            y="311.60788"
